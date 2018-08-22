@@ -8,7 +8,7 @@ Good luck.
 **Course Number:** CSE 466 <br>
 **Meeting Times:** Wednesday, 6:05pm to 8:50pm <br>
 **Meeting Location:** CABC 101 <br>
-**Mailing List:** https://groups.google.com/forum/#!forum/cse-466/
+**Mailing List:** https://groups.google.com/forum/#!forum/cse-466/ <br>
 **Instructor:** Prof. Yan Shoshitaishvili (yans@asu.edu) <br>
 **Professor Office:** BYENG 480 <br>
 **Professor Office Hours:** Thursday 12:00pm–2:00pm, and by appointment <br>
