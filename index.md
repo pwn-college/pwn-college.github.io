@@ -1,1 +1,3 @@
-# Welcome to pwn-college!
+# Course Index
+
+Welcome to CSE 466!
