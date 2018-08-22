@@ -18,4 +18,4 @@ Good luck.
 
 # Syllabus
 
-The syllabus is available [here](syllabus.md).
+The syllabus is available [here](syllabus.html).
