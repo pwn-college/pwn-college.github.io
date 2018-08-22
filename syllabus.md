@@ -76,8 +76,8 @@ For each assignment, earned points map to a _percent_ that directly impacts the 
 The other 40 percent (to a maximum of 110) is awarded on a curve, with students receiving anywhere from 0 to 40 percent based on their performance compared to other students.
 These percentages will be assigned by sorting students (with more than 70 points) by their point amount and giving the top student 40 points, the next 39, and so on.
 If several students tie for a spot, they will both receive that amount of points.
-If fewer than 40 students have more than 70 points, the slots will be sparser.
-For example, if only four students have more than 70 points, the top will get 110 points, the next 100, the next 90, and the last 80.
+If fewer than 40 students have more than 70 points, the slots will be awarded in descending order from the maximum point value.
+For example, if only four students have more than 70 points, the top will get 110 points, the next 109, the next 108, and the last 107.
 
 Each homework assignment will have some amount of percent (between 0 and 10) that will _only_ be redeemable in the last hour of class, after the end of the lecture component, after the homework is assigned.
 If you miss class, you will have to make up for this lost percentage by getting 110 percent on a future next assignment.
