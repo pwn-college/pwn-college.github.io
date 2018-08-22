@@ -5,4 +5,4 @@ Good luck.
 
 # Syllabus
 
-{% include syllabus.md &}
+The syllabus is available [here](syllabus.md).
