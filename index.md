@@ -13,7 +13,7 @@ Good luck.
 **Professor Office:** BYENG 480 <br>
 **Professor Office Hours:** Thursday 12:00pm–2:00pm, and by appointment <br>
 **TA:** Connor Nelson (connor.d.nelson@asu.edu) <br>
-**TA Office:** TODO <br>
+**TA Office:** BYENG 423 <br>
 **TA Office Hours:** Monday 2:30pm–4:30pm <br>
 
 # Syllabus
