@@ -20,6 +20,8 @@ A single SUID binary will net you a single flag.
 That is, specifying `cat` and using it to leak out the flag (as in the example below) will get you one point, and specifying `tail` and using it to leak out the flag (as in another example below) will get you another.
 In a more complex case, specifying `chmod` (as in the example below) and then using that to change the permission of other programs and read out the flag that way will get you a flag for `chmod` regardless of what other permissions you change, since `chmod` was the specified command.
 
+If you are ready to tackle the challenges, go to [https://ctf.pwn.college](https://ctf.pwn.college)!
+
 ## Example Interactions
 
 Here is a sample interaction that successfully retrieves the flag by setting the SUID flag on `/bin/cat` (you may use this for one of your solutions!), thus allowing `cat` to run as root.

@@ -19,3 +19,5 @@ Each program takes user input on stdin and contains at least one (intentional) v
 If you exploit it, you can get it to read the flag and print it out to you.
 
 The up-shot is this: to read the `/flag` for a binary, you will have to understand how to exploit it.
+
+If you are ready to tackle the challenges, go to [https://ctf.pwn.college](https://ctf.pwn.college)!

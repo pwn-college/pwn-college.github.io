@@ -13,3 +13,5 @@ The binaries that you are allowed to choose are all under the `/pwn` directory.
 
 Each program will sandbox you to protect the flag.
 If you can escape the sandbox, you can use read the `/flag` file.
+
+If you are ready to tackle the challenges, go to [https://ctf.pwn.college](https://ctf.pwn.college)!

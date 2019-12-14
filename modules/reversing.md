@@ -10,6 +10,16 @@ The slides for this module are:
 
 - [Reverse Engineering](https://docs.google.com/presentation/d/1Oh8zmJEBQWvHz6lOq902tYuna0AHeQ8AJxWLGnsEMkU/edit)
 
+## Practice
+
+The goal of the challenge sets in this module is to get the flag.
+
+There are a number of difficulty levels, but the programs are structured similarly.
+Each program takes user input (vi a variety of methods), does some operations, and verifies the result.
+If you produce correct input, you can get it to read the flag and print it out to you.
+
+If you are ready to tackle the challenges, go to [https://ctf.pwn.college](https://ctf.pwn.college)!
+
 ## Useful Tools
 
 As mentioned in the slides, there are a number of useful tools for this assignment!

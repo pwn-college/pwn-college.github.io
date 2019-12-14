@@ -17,3 +17,5 @@ There is a `/flag` file, and you get to choose one binary on which the SUID flag
 Each program will misuse the heap in some way.
 You can subvert the program functionality through this misuse.
 If you are successful, you can use it to read the `/flag` file.
+
+If you are ready to tackle the challenges, go to [https://ctf.pwn.college](https://ctf.pwn.college)!

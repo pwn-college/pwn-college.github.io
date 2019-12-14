@@ -13,3 +13,5 @@ The slides for this module are:
 
 Again, you will practice on a set of generated challenges.
 There is a `/flag` file, and you get to choose one binary on which the SUID flag will be set.
+
+If you are ready to tackle the challenges, go to [https://ctf.pwn.college](https://ctf.pwn.college)!
