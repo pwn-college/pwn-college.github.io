@@ -4,7 +4,6 @@ pwn.college is a first-stage education platform for students (and other interest
 It is designed to take a "white belt" in cybersecurity to becoming a "yellow belt", able to approach (simple) CTFs and wargames.
 
 The philosophy of pwn.college is "practice makes perfect".
-You can understand the philosophy and goals of pwn.college by listening to our HITCON talk (link coming soon!).
 Good luck!
 
 # pwn.college is in BETA
