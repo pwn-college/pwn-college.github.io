@@ -33,7 +33,7 @@ If you are a black belt, it will put you to sleep.
 # Who is responsible?
 
 pwn.college was created by [Zardus (Yan Shoshitaishvili)](http://yancomm.net) and [kanak (Connor Nelson)](https://connornelson.com) for the CSE 466 course at Arizona State University.
-It has powered the Fall 2018 and Fall 2019 editions of CSE466, and is moving forward toward chaning the world!
+It has powered the Fall 2018 and Fall 2019 editions of CSE466, and is moving forward toward changing the world!
 
 # The modules of pwn.college
 
