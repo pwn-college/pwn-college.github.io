@@ -15,20 +15,25 @@ Right now, we are working on resolving the following **known issues**:
 1. The module slides are not very useful without video (and demos).
 2. Some of the module challenge sets have problems with difficulty scaling (ROP suffers from this especially).
 3. Some of the module challenge sets are missing concepts (example: GOT overwrites for memory corruption, actual memory corruption in the kernel).
+4. Security doesn't start and stop with binary analysis! As pwn.college is used in more courses, it'll acquire more modules.
 
-If you have other comments, suggestions, and feedback, please email us at [pwn.college@asu.edu](mailto:pwn.college@asu.edu)!
+If you have other comments, suggestions, and feedback, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu)!
 
 # Who is this for?
 
 Consider hacking as a martial art.
 Newcomers begin as _white belts_, with zero security knowledge.
-Slowly and painfully, they become _yellow belts_, able to reason about simple security challenges.
-Over time, they become more sure in their skills, achieving _brown belt_ status, before finally graduating to hacking masters: _black belts_.
+Slowly and painfully, they become _yellow belts_, able to reason about simple security challenges and start down the road of, for example, CTF competitions.
+Over time, they become more sure in their skills, achieving _brown belt_ status (and able to, for example, contribute to the cybersecurity industry), before finally graduating to hacking masters: _black belts_.
 
 pwn.college is meant for **white belts**.
 If you already know the basics of hacking (and, thus, are a yellow belt), you will find this resource very easy.
 If you are a brown belt, you will find it quite boring.
 If you are a black belt, it will put you to sleep.
+
+That being said, just because the material is for beginners does _not_ mean that the concepts are basic.
+The course tackles complex concepts, up to and including the inner working of OS kernels.
+Be ready to do some real work!
 
 # Who is responsible?
 
