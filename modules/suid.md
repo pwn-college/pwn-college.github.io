@@ -12,6 +12,7 @@ The slides for this module are:
 
 Practice challenges for this module let aspiring hackers practice the (mis)use of Linux software!
 For each challenge, the hacker can choose a single binary on the system to be set SUID, and will then be provided a shell on a Linux environment.
+The SUID binary will be located in `/`.
 In this environment, there is a file `/flag`, containing the secret flag that you must read out.
 However, the file is only readable by root user!
 Using your single SUID binary, you must elevate your privileges enough to read out the flag.
@@ -30,29 +31,29 @@ Thus, retrieving the flag with it is quite simple:
 
 ```
 myuser@mylaptop:~$ ssh ctf@cse466.pwn.college
-ctf@b38bdd753b5b:~$ /bin/cat /flag
+ctf@b38bdd753b5b:~$ /babysuid_cat /flag
 CSE466{747985b99bd25b8805ced639297720ae71e87a7acef580dc6b514143e5152133}
 ctf@b38bdd753b5b:~$ exit
 ```
 
 As you can see, this gives you the flag associated with `cat`.
-Let's choose another program: say, `/usr/bin/tail` (you may use this for another solution!).
+Let's choose another program: say, `tail` (you may use this for another solution!).
 `tail` is a program that prints out the last few lines of a file.
 Since the `/flag` file only has one line (the flag), this is perfect for us!
 Specifying `tail`, you will receive another flag:
 
 ```
-ctf@b38bdd753b5b:~$ tail /flag
+ctf@b38bdd753b5b:~$ /babysuid_tail /flag
 CSE466{7ca9d3c2fcbaa0c0cde22777bfefff2a5f5ac707f5194f91cd24226dbae0b74b}
 ctf@b38bdd753b5b:~$ exit
 ```
 
-Note that this is a _different_ flag from `/bin/cat`!
+Note that this is a _different_ flag from `cat`!
 Now, you have two flags: one for `cat` and one for `tail`.
-Note that, while `/bin/cat` and `/usr/bin/tail` is easy, other programs are not so simple to read the flag with.
+Note that, while `cat` and `tail` is easy, other programs are not so simple to read the flag with.
 No matter how convoluted retrieving the flag is with a given program, one unique SUID binary path will only ever yield _one_ flag.
 
-For a slightly more complex example, let's look at `/bin/chmod`.
+For a slightly more complex example, let's look at `chmod`.
 `chmod` is a program that can change permissions of files.
 There are _many_ ways to read the `/flag` file with `chmod`.
 We'll cover a few here (feel free to use this for one of your solutions!).
@@ -60,7 +61,7 @@ We'll cover a few here (feel free to use this for one of your solutions!).
 First, we can simply change the permissions of the `/flag` file to allow us to read it:
 
 ```
-ctf@5d1f52fff4e8:~$ chmod 644 /flag
+ctf@5d1f52fff4e8:~$ /babysuid_chmod 644 /flag
 ctf@5d1f52fff4e8:~$ cat /flag
 CSE466{36ef1e24753a8e3119eeac953e44f47f48aa388f9a72e2cb2d54fc9a622c5ef8}
 ctf@5d1f52fff4e8:~$ exit
@@ -69,7 +70,7 @@ ctf@5d1f52fff4e8:~$ exit
 Second, we can make the `/bin/cat` binary SUID, so that _it_ runs as root and lets us read the flag.
 
 ```
-ctf@5d1f52fff4e8:~$ chmod 4755 /bin/cat
+ctf@5d1f52fff4e8:~$ /babysuid_chmod 4755 /bin/cat
 ctf@5d1f52fff4e8:~$ cat /flag
 CSE466{36ef1e24753a8e3119eeac953e44f47f48aa388f9a72e2cb2d54fc9a622c5ef8}
 ctf@5d1f52fff4e8:~$ exit
@@ -78,13 +79,13 @@ ctf@5d1f52fff4e8:~$ exit
 And we can do the same with other binaries, such as `/usr/bin/tail`:
 
 ```
-ctf@5d1f52fff4e8:~$ chmod 4755 /usr/bin/tail
+ctf@5d1f52fff4e8:~$ /babysuid_chmod 4755 /usr/bin/tail
 ctf@5d1f52fff4e8:~$ cat /flag
 CSE466{36ef1e24753a8e3119eeac953e44f47f48aa388f9a72e2cb2d54fc9a622c5ef8}
 ctf@5d1f52fff4e8:~$ exit
 ```
 
-Note that all three ways of getting the flag after specifying `/usr/bin/chmod` _get the same flag_.
+Note that all three ways of getting the flag after specifying `chmod` _get the same flag_.
 This is because the flag depends on the path to the binary that you specify in the `Path to Binary:` prompt.
 `chmod` is great, and it'll let you run _any_ binary with SUID, but it'll only get you one flag.
 
@@ -95,7 +96,7 @@ Go get the rest!
 
 To get a flag using a given program, you need to understand how the program works.
 For `cat` and `tail` it's easy.
-Can you get the flag using `/bin/whiptail`, a program that is used to create TUIs (Text User Interfaces)?
+Can you get the flag using `whiptail`, a program that is used to create TUIs (Text User Interfaces)?
 Hint: yes, but you need to know how to use whiptail!
 
 So, how do you learn?
