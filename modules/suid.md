@@ -145,11 +145,11 @@ Also keep in mind a few hints:
 
 Some other useful resources:
 
-- Searching for executable files: https://stackoverflow.com/questions/4458120/unix-find-search-for-executable-files
-- A primer on Linux file permissions: https://wiki.archlinux.org/index.php/File_permissions_and_attributes
-- A primer on privilege escalation attacks against Linux hosts. The SUID abuse section has obvious implications for this assignment: https://payatu.com/guide-linux-privilege-escalation/
-- Some thoughts on abusing dangers in SUID executables: https://www.pentestpartners.com/security-blog/exploiting-suid-executables/
-- Another SUID attack tutorial: https://null-byte.wonderhowto.com/how-to/use-misconfigured-suid-bit-escalate-privileges-get-root-0173929/
-- Another SUID tutorial. It is focused on shell scripts, but there are insights that can be used: http://www.drdobbs.com/dangers-of-suid-shell-scripts/199101190
-- A treatise on I/O redirection in Linux, which has applications in this assignment: https://bencane.com/2012/04/16/unix-shell-the-art-of-io-redirection/
-- A guide on Linux symbolic links. Might be useful to confuse some challenges: https://www.nixtutor.com/freebsd/understanding-symbolic-links/
+- Searching for executable files: [https://stackoverflow.com/questions/4458120/unix-find-search-for-executable-files](https://stackoverflow.com/questions/4458120/unix-find-search-for-executable-files)
+- A primer on Linux file permissions: [https://wiki.archlinux.org/index.php/File_permissions_and_attributes](https://wiki.archlinux.org/index.php/File_permissions_and_attributes)
+- A primer on privilege escalation attacks against Linux hosts. The SUID abuse section has obvious implications for this assignment: [https://payatu.com/guide-linux-privilege-escalation/](https://payatu.com/guide-linux-privilege-escalation/)
+- Some thoughts on abusing dangers in SUID executables: [https://www.pentestpartners.com/security-blog/exploiting-suid-executables/](https://www.pentestpartners.com/security-blog/exploiting-suid-executables/)
+- Another SUID attack tutorial: [https://null-byte.wonderhowto.com/how-to/use-misconfigured-suid-bit-escalate-privileges-get-root-0173929/](https://null-byte.wonderhowto.com/how-to/use-misconfigured-suid-bit-escalate-privileges-get-root-0173929/)
+- Another SUID tutorial. It is focused on shell scripts, but there are insights that can be used: [http://www.drdobbs.com/dangers-of-suid-shell-scripts/199101190](http://www.drdobbs.com/dangers-of-suid-shell-scripts/199101190)
+- A treatise on I/O redirection in Linux, which has applications in this assignment: [https://bencane.com/2012/04/16/unix-shell-the-art-of-io-redirection/](https://bencane.com/2012/04/16/unix-shell-the-art-of-io-redirection/)
+- A guide on Linux symbolic links. Might be useful to confuse some challenges: [https://www.nixtutor.com/freebsd/understanding-symbolic-links/](https://www.nixtutor.com/freebsd/understanding-symbolic-links/)
