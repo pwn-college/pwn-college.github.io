@@ -9,7 +9,7 @@ It powers ASU's Computer Systems Security course, CSE466, and is now open, for f
 
 pwn.college is hosted across a number of internet services:
 - We record our [lectures on YouTube](https://www.youtube.com/channel/UCBaWwFw7KmCN8YlfX4ERYKg/).
-- We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4pm to 7pm AZ time.
+- We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4:30pm to 7:30pm AZ time.
 - We host [practice problems on our infrastructure](https://cse466.pwn.college). **ATTENTION: PRACTICE PROBLEMS WILL GO LIVE AT 4PM AZ TIME ON AUGUST 26. UNTIL THEN, FEEL FREE TO CHECK OUT THE OLD ARCHIVE FROM THE BETA, BELOW.**
 
 If you have other comments, suggestions, and feedback, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu)!
