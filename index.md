@@ -14,7 +14,7 @@ pwn.college is hosted across a number of internet services:
 
 If you have other comments, suggestions, and feedback, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu)!
 
-# Who is this for?
+# Who is this for? (prerequisites)
 
 Consider hacking as a martial art.
 Newcomers begin as _white belts_, with zero security knowledge.
@@ -28,7 +28,14 @@ If you are a black belt, it will put you to sleep.
 
 That being said, just because the material is for beginners does _not_ mean that the concepts are basic.
 The course tackles complex concepts, up to and including the inner working of OS kernels.
-Be ready to do some real work!
+Good Computer Organization and OS courses covering the following are recommended.
+- C programming.
+- C compilation.
+- x86\_64 assembly.
+- OS internals (system calls, etc).
+- Linux operations (FS layout, permissions, shell scripting, etc).
+
+Though pwn.college has an [introduction](modules/intro) module that covers some fundamentals, a lack of knowledge in these areas will lead to heavy difficulties in the course.
 
 # How do I jump in?
 
