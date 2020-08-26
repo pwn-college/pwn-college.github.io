@@ -1,21 +1,16 @@
-Welcome to pwn.college BETA!
+# Welcome to pwn.college!
 
 pwn.college is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 It is designed to take a "white belt" in cybersecurity to becoming a "yellow belt", able to approach (simple) CTFs and wargames.
-
 The philosophy of pwn.college is "practice makes perfect".
-Good luck!
 
-# pwn.college is in BETA
+pwn.college was created by [Zardus (Yan Shoshitaishvili)](http://yancomm.net) and [kanak (Connor Nelson)](https://connornelson.com) at Arizona State University.
+It powers ASU's Computer Systems Security course, CSE466, and is now open, for free, to participation for interested people around the world!
 
-Following the open-source philosophy of "release early, release often", pwn.college is in BETA.
-This is not yet a polished education platform, but we're pushing there!
-Right now, we are working on resolving the following **known issues**:
-
-1. The module slides are not very useful without video (and demos).
-2. Some of the module challenge sets have problems with difficulty scaling (ROP suffers from this especially).
-3. Some of the module challenge sets are missing concepts (example: GOT overwrites for memory corruption, actual memory corruption in the kernel).
-4. Security doesn't start and stop with binary analysis! As pwn.college is used in more courses, it'll acquire more modules.
+pwn.college is hosted across a number of internet services:
+- We record our [lectures on YouTube](https://www.youtube.com/channel/UCBaWwFw7KmCN8YlfX4ERYKg/).
+- We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4pm to 7pm AZ time.
+- We host [practice problems on our infrastructure](https://cse466.pwn.college). **ATTENTION: PRACTICE PROBLEMS WILL GO LIVE AT 4PM AZ TIME ON AUGUST 26. UNTIL THEN, FEEL FREE TO CHECK OUT THE OLD ARCHIVE FROM THE BETA, BELOW.**
 
 If you have other comments, suggestions, and feedback, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu)!
 
@@ -35,33 +30,24 @@ That being said, just because the material is for beginners does _not_ mean that
 The course tackles complex concepts, up to and including the inner working of OS kernels.
 Be ready to do some real work!
 
-# Who is responsible?
-
-pwn.college was created by [Zardus (Yan Shoshitaishvili)](http://yancomm.net) and [kanak (Connor Nelson)](https://connornelson.com) for the CSE 466 course at Arizona State University.
-It has powered the Fall 2018 and Fall 2019 editions of CSE466, and is moving forward toward changing the world!
-
-# The modules of pwn.college
+# How do I jump in?
 
 pwn.college is organized as a set of modules covering different topics.
-Each module has a set of lectures (slides available now, videos coming soon!) and practice problems, auto-generated for each aspiring hacker to practice on.
+Each module has a set of lecture slides and videos and practice problems auto-generated for each aspiring hacker to practice on.
 Challenges come in a _teaching_ variety, which will walk you through their own solutions, and a _testing_ variety, which will challenge you with less guidance.
 Challenges are run directly on pwn.college, and can be launched in _practice_ mode, where you have root access but there is a fake flag, and _real_ mode, where you cannot read the flag without exploiting the challenge.
-The following modules are currently available at pwn.college:
 
-- [Module 1: Abusing SUID in Linux](modules/suid)
-- [Module 2: Shellcode](modules/shellcode)
-- [Module 3: Sandboxing](modules/sandbox)
-- [Module 4: Reversing](modules/reversing)
-- [Module 5: Memory Corruption](modules/pwning)
-- [Module 6: Format Strings](modules/fmt)
-- [Module 7: Return Oriented Programming](modules/rop)
-- [Module 8: Heap Exploitation](modules/heap)
-- [Module 9: Kernel Security](modules/kernel)
+pwn.college has come out of beta, and modules are being launched alongside the progress of ASU's Fall 2020 CSE466 class.
+So far, the following modules are live:
 
-# Concepts
+- [Module 0: Introduction](modules/intro)
 
-Aside from directed module, pwn.college contains a wiki-like set of [hacking concepts](concepts)!
-These are designed to be linked directly from challenge problems.
+Additional modules will be launched on a weekly basis!
+If you are impatient, you can check out archived modules from the pwn.college beta at the bottom of the page.
+
+
+
+
 
 # Further Practice
 
@@ -69,15 +55,32 @@ After you learn the basics of cybersecurity and achieve yellow belt status, you 
 
 Capture The Flags (CTFs) are a great way to practice your hacking skills in a fun and ethical way.
 The most popular way to find upcoming events is at [https://ctftime.org](https://ctftime.org).
-If you are at ASU, feel free to check out and join ASU's CTF Team _pwndevils_ at [https://pwndevils.com](https://pwndevils.com).
+If you are at ASU, feel free to check out and join ASU's CTF club _pwndevils_ at [https://pwndevils.com](https://pwndevils.com).
 
 Wargames are another great way to practice your hacking skills.
 Whereas CTFs are short (normally 48 hour) events, wargames are not time-based.
 You can find a list of wargames at [https://github.com/zardus/wargame-nexus](https://github.com/zardus/wargame-nexus).
 
+If you want to get involved with cybersecurity research, but don't know how, consider joining us for an [internship at ASU](https://sefcom.asu.edu/apprenticeship).
+
 # Contributing
 
-The [infrastructure powering pwn.college](https://github.com/pwn-college/pwn-college) and [the web-facing content](https://github.com/pwn-college/pwn-college.github.io) are open source, and we welcome pull requests and issues.
+The [infrastructure powering pwn.college](https://github.com/pwncollege/pwn-college) and [the web-facing content](https://github.com/pwncollege/pwn-college.github.io) are open source, and we welcome pull requests and issues.
 The modules are closed-source, because they include source code and solution scripts.
 If you are an educator, or otherwise someone we trust, and are interested in collaborating on the modules themselves, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu).
 Likewise, drop us a line if you are interested in collaborating on the slides!
+
+# ARCHIVED MODULES FROM THE PWN-COLLEGE BETA
+
+The pwn-college beta was announced at HITCON 2019 and ran until August 2020.
+All of the old material is still available below:
+
+- [Module 1: Abusing SUID in Linux](modules-old/suid)
+- [Module 2: Shellcode](modules-old/shellcode)
+- [Module 3: Sandboxing](modules-old/sandbox)
+- [Module 4: Reversing](modules-old/reversing)
+- [Module 5: Memory Corruption](modules-old/pwning)
+- [Module 6: Format Strings](modules-old/fmt)
+- [Module 7: Return Oriented Programming](modules-old/rop)
+- [Module 8: Heap Exploitation](modules-old/heap)
+- [Module 9: Kernel Security](modules-old/kernel)
