@@ -139,6 +139,8 @@ With the exception of the cutoff for A+, these cutoffs can be curved _downward_ 
 That is, if you earn an 88% in the course, you are guaranteed at least a B+, but if everyone else does super poorly, the curve might pull you up to an A, but never an A+.
 Updates on the theme of "what would the cutoffs be if the course ended today" will be provided at the conclusion of each assignment.
 
+**Y GRADES:** To ease student suffering in the current situation, I am offering Y grades for CSE 466. A Y grade does not impact your GPA, and represents a C or better in the course. If you wish to switch to a Y grading system, please let me know immediately. It is not possible to switch back _out_ of a Y grading system, so please ensure that this will not impact your graduation requirements.
+
 # Special Accommodations
 
 Students requesting disability accommodations should register with the Disability Resource Center (DRC) and present the instructor with appropriate documentation from the DRC.
