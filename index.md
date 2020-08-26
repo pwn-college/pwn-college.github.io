@@ -11,6 +11,7 @@ pwn.college is hosted across a number of internet services:
 - We record our [lectures on YouTube](https://www.youtube.com/channel/UCBaWwFw7KmCN8YlfX4ERYKg/).
 - We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4:30pm to 7:30pm AZ time.
 - We host [practice problems on our infrastructure](https://cse466.pwn.college). **ATTENTION: PRACTICE PROBLEMS WILL GO LIVE AT 4PM AZ TIME ON AUGUST 26. UNTIL THEN, FEEL FREE TO CHECK OUT THE OLD ARCHIVE FROM THE BETA, BELOW.**
+- We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
 
 If you have other comments, suggestions, and feedback, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu)!
 
