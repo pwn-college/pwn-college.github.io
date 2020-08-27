@@ -19,4 +19,4 @@ There are no practice problems for this module!
 
 ## Further Reading
 
-- Phineas Phisher's [writeup](intro/phisher-hackback) of the hacking team disclosure (discussed in the What is Computer Systems Security video). Originally posted on pastebin by Phineas Phisher, but since removed.
+- Phineas Phisher's [writeup](intro/phisher-hackback.txt) of the hacking team disclosure (discussed in the What is Computer Systems Security video). Originally posted on pastebin by Phineas Phisher, but since removed.
