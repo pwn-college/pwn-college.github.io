@@ -6,7 +6,7 @@ This module explores the impact of SUID misuse on the security of a system.
 
 The video for the lecture is this:
 
-- [Privilege Escalation](TODO) (slides [here](https://docs.google.com/presentation/d/1EB7dL5gx3pQlPDqZSEqTtlDiJRZmHGbqRnwxgm4feuw/edit#slide=id.g8a9f5b81a5_0_0))
+- [Privilege Escalation](https://youtu.be/ZWxYWdiXqD8) (slides [here](https://docs.google.com/presentation/d/1EB7dL5gx3pQlPDqZSEqTtlDiJRZmHGbqRnwxgm4feuw/edit#slide=id.g8a9f5b81a5_0_0))
 
 Additionally, the following fundamental lectures may be useful for this module:
 
