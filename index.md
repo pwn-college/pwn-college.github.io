@@ -13,6 +13,13 @@ pwn.college is hosted across a number of internet services:
 - We host [practice problems on our infrastructure](https://cse466.pwn.college).
 - We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
 
+**Stream Schedule (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
+- Extended module Q&A, auxiliary lecturing, and collaborative problem solving: Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/).
+- Yan's office hours: Mondays at 3:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
+- Connor's office hours: Tuesdays at 2:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
+
+All streams are open to THE WORLD! ASU students will get a private voice channel, but everyone can ask questions on twitch.
+
 If you have other comments, suggestions, and feedback, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu)!
 
 # Who is this for? (prerequisites)
