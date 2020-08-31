@@ -50,6 +50,7 @@ So far, the following modules are live:
 
 - [Module 0: Introduction](modules/intro)
 - [Module 1: Privilege Escalation](modules/suid)
+- [Module 2: Shellcode](modules/shellcode)
 
 Additional modules will be launched on a weekly basis!
 If you are impatient, you can check out archived modules from the pwn.college beta at the bottom of the page.
