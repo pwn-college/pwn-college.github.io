@@ -15,7 +15,7 @@ pwn.college is hosted across a number of internet services:
 - We host collaboration hours during our Wednesday lectures on [discord](https://discord.gg/68x4ADt).
 
 **Stream Schedule (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
-- Extended module Q&A, auxiliary lecturing, and collaborative problem solving: Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/). **NEXT MODULE: [shellcoding](modules/shellcode).**
+- Extended module Q&A, auxiliary lecturing, and collaborative problem solving: Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/). **NEXT MODULE: sandboxing**
 - Yan's office hours: Mondays at 3:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
 - Connor's office hours: Tuesdays at 2:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
 
@@ -58,7 +58,7 @@ So far, the following modules are live:
 
 - [Module 0: Introduction](modules/intro)
 - [Module 1: Privilege Escalation](modules/suid)
-- [Module 2: Shellcode](modules/shellcode)     **challenges launch 9/6**
+- [Module 2: Shellcode](modules/shellcode)
 - Module 3: Sandboxing:                        **videos launch weekend of 09/05, challenges launch 09/09**
 - Module 4: Binary Reverse Engineering:        **videos launch weekend of 09/12, challenges launch 09/16**
 - Module 5: Introduction to Memory Corruption: **videos launch weekend of 09/19, challenges launch 09/23**

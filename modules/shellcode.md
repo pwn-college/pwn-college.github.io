@@ -21,13 +21,10 @@ Additionally, you should be quite familiar with the following fundamental knowle
 ## Practice
 
 You will practice on a set of generated challenges.
-There is a `/flag` file, and you get to choose one binary on which the SUID flag will be set.
-
 Each program takes your shellcode as input over stdin and will filter and execute your shellcode.
 If your shellcode passes the filters and successfully runs, you can use it to read the `/flag` file.
 
 If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
-**NOTE: THE CHALLENGES WILL LAUNCH ON WEDNESDAY, SEPTEMBER 2ND! STAY TUNED!!!**
 
 ## Resources
 
