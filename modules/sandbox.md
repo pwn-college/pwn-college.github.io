@@ -3,7 +3,7 @@
 The slides for this module are:
 
 - [Sandboxing: Introduction](https://youtu.be/Ide_eg-eQZ0) (slides [here](https://docs.google.com/presentation/d/1TpMjTimroiC3Jm0dsteHWEUw06yZ5Oh7iM8YBmbOUkI/edit))
-- **COMING SOON** Sandboxing: chroot jails
+- [Sandboxing: chroot](https://youtu.be/C81lO7pG5aA) (slides [here](https://docs.google.com/presentation/d/1AWl9Gko_L1kDLBtrTFB3EohQU4vQjykpQE5dm9uxYi0/edit))
 - **COMING SOON** Sandboxing: seccomp
 - **COMING SOON** Sandboxing: cgroups
 
