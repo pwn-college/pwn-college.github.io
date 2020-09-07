@@ -7,6 +7,10 @@ The slides for this module are:
 - **COMING SOON** Sandboxing: seccomp
 - **COMING SOON** Sandboxing: cgroups
 
+Additionally, you should be quite familiar with the following fundamental knowledge:
+
+- [Fundamentals: Linux Process Execution](https://www.youtube.com/watch?v=Vtb5wIlthRg) (slides [here](https://docs.google.com/presentation/d/1ezY9Q8I0tzDD-7ZDXMbQM5RQ7z1dvB9-U_nDEhc6qdE/edit#slide=id.g8a9f5b81a5_0_0))
+
 ## Practice
 
 
