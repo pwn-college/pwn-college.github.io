@@ -59,7 +59,7 @@ So far, the following modules are live:
 - [Module 0: Introduction](modules/intro)
 - [Module 1: Privilege Escalation](modules/suid)
 - [Module 2: Shellcode](modules/shellcode)
-- [Module 3: Sandboxing](modules/sandbox) **videos launch weekend of 09/05, challenges launch 09/09**
+- [Module 3: Sandboxing](modules/sandbox) **challenges launch 09/09**
 - Module 4: Binary Reverse Engineering:        **videos launch weekend of 09/12, challenges launch 09/16**
 - Module 5: Introduction to Memory Corruption: **videos launch weekend of 09/19, challenges launch 09/23**
 - Module 6: Return Oriented Programming:       **videos launch weekend of 09/26, challenges launch 09/30**
