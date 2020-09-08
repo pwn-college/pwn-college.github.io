@@ -4,8 +4,8 @@ The slides for this module are:
 
 - [Sandboxing: Introduction](https://youtu.be/Ide_eg-eQZ0) (slides [here](https://docs.google.com/presentation/d/1TpMjTimroiC3Jm0dsteHWEUw06yZ5Oh7iM8YBmbOUkI/edit))
 - [Sandboxing: chroot](https://youtu.be/C81lO7pG5aA) (slides [here](https://docs.google.com/presentation/d/1AWl9Gko_L1kDLBtrTFB3EohQU4vQjykpQE5dm9uxYi0/edit))
-- **COMING SOON** Sandboxing: seccomp
-- **COMING SOON** Sandboxing: cgroups and namespaces
+- [Sandboxing: seccomp](https://www.youtube.com/watch?v=hrT1xvxGKS4) (slides [here](https://docs.google.com/presentation/d/1jOTktFSo-TwQklYdsOyC3f-2ba8XuJA8ZFWHjMQyQVI/edit))
+- [Sandboxing: Escaping seccomp](https://www.youtube.com/watch?v=h1L9mF6PHlQ) (slides [here](https://docs.google.com/presentation/d/1tkBhW2JG-_jRaRDwSpuUYdT-Dg-odtZTdqanQu8vqow/edit))
 
 Additionally, you should be quite familiar with the following fundamental knowledge:
 
