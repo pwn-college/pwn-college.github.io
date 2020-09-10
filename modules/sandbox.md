@@ -18,4 +18,4 @@ Again, you will practice on a set of generated challenges.
 Each challenge will sandbox you to protect the flag.
 If you can escape the sandbox, you can use read the `/flag` file and score!
 
-If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **CHALLENGES WILL LAUNCH ON 9/9/2020! STAY TUNED!**
+If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
