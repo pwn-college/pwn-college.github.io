@@ -12,7 +12,7 @@ pwn.college is hosted across a number of internet services:
 - We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4:30pm to 7:30pm AZ time, along with office hours and prerecorded lecture streams.
 - We host [practice problems on our infrastructure](https://cse466.pwn.college).
 - We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
-- We host collaboration hours during our Wednesday lectures on [discord](https://discord.gg/68x4ADt).
+- We host collaboration hours during our Wednesday lectures on [discord](https://discord.com/invite/68x4ADt).
 
 **Stream Schedule (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
 - Extended module Q&A, auxiliary lecturing, and collaborative problem solving: Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/). **NEXT MODULE: sandboxing**
