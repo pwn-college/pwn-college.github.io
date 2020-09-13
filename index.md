@@ -92,7 +92,7 @@ If you want to get involved with cybersecurity research, but don't know how, con
 
 # Contributing
 
-The [infrastructure powering pwn.college](https://github.com/pwncollege/pwn-college) and [the web-facing content](https://github.com/pwncollege/pwn-college.github.io) are open source, and we welcome pull requests and issues.
+The [infrastructure powering pwn.college](https://github.com/pwncollege/pwncollege) and [the web-facing content](https://github.com/pwncollege/pwn-college.github.io) are open source, and we welcome pull requests and issues.
 The modules are closed-source, because they include source code and solution scripts.
 If you are an educator, or otherwise someone we trust, and are interested in collaborating on the modules themselves, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu).
 Likewise, drop us a line if you are interested in collaborating on the slides!
