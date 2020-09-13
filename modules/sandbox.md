@@ -19,3 +19,15 @@ Each challenge will sandbox you to protect the flag.
 If you can escape the sandbox, you can use read the `/flag` file and score!
 
 If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
+
+## Errata
+
+Some tips and tricks for the challenge problems!
+
+- Be very careful to understand the timeline of what the challenge does. A file opened BEFORE `chroot()` is very different from a file opened AFTER `chroot()`. The sequence of actions makes a big difference.
+- There aren't any restrictions on shellcode (other than syscalls), so we highly recommend making sure your shellcode exits cleanly. That will make it easier to debug.
+- You can determine the value of constants such as `AT_FDCWD` by writing a quick C program that includes the relevant header files and does `printf("%d\n", AT_FDCWD);`.
+- `chroot()` will fail if you're not running as root. `strace` causes the SUID bit to be ignored, so you must use `sudo strace` to properly trace these challenges. Of course, this will only be possible in practice mode.
+- There is a known issue with strace that, in certain configurations, it will improperly resolve the syscall number of 32-bit syscalls in amd64. Using a newer Linux VM sometimes helps. If you're using `int 0x80` to trigger system calls, the 32-bit ones ARE being used; strace is just lying to you.
+- On the subject of 32-bit syscalls: you do not have to assemble your shellcode in 32-bit mode (i.e., you don't need `-m32`). It is perfectly valid to just up and `int 0x80` in the middle of an otherwise-64-bit shellcode.
+- Read [this](https://www.gnu.org/software/bash/manual/html_node/Redirections.html) thoroughly, especially Section 3.6.1.
