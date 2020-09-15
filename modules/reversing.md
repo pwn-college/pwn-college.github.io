@@ -11,8 +11,8 @@ This module consists of the following lectures:
 - [Reverse Engineering: Introduction](https://youtu.be/ClVocVk1c5g) (slides [here](https://docs.google.com/presentation/d/1hw_STBTJh4xqMv4TZAPRqt2rYIEAXXaCQlaBetxUufU/edit))
 - [Reverse Engineering: Functions and Frames](https://youtu.be/3IdeyjrMBA4) (slides [here](https://docs.google.com/presentation/d/125gIw6rNKvwa-1DO6j3HTWbWtr2q3xD2coTCb0CgmAw/edit))
 - [Reverse Engineering: Data Access](https://www.youtube.com/watch?v=AtVprTb5xBs) (slides [here](https://docs.google.com/presentation/d/154CQfQtpleaAQv9xNI1FVosbXc_18VZvXVpcs9Ljzzo/edit#slide=id.p))
-- **Coming soon** [Reverse Engineering: Static Tools]() (slides [here]())
-- **Coming soon** [Reverse Engineering: Dynamic Tools]() (slides [here]())
+- [Reverse Engineering: Static Tools](https://youtu.be/ls4Eoew6aSY) (slides [here](https://docs.google.com/presentation/d/1GcRLX3-cD9eLweEixmBPfawY7viOQWApG7E_HFfqHQQ/edit))
+- [Reverse Engineering: Dynamic Tools](https://www.youtube.com/watch?v=HcBordv7aWU) (slides [here](https://docs.google.com/presentation/d/13yzjaRTIlloV8Lg5fcQN2ZYXooVqizLgHVby1ltYeWY/edit))
 - **Coming soon** [Reverse Engineering: Examples]() (slides [here]())
 
 Additionally, you should be quite familiar with the following fundamental knowledge:
