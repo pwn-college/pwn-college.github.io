@@ -9,7 +9,7 @@ You will prove that this assumption is flawed.
 This module consists of the following lectures:
 
 - [Reverse Engineering: Introduction](https://youtu.be/ClVocVk1c5g) (slides [here](https://docs.google.com/presentation/d/1hw_STBTJh4xqMv4TZAPRqt2rYIEAXXaCQlaBetxUufU/edit))
-- [Reverse Engineering: Functions and Frames]() (slides [here](https://docs.google.com/presentation/d/125gIw6rNKvwa-1DO6j3HTWbWtr2q3xD2coTCb0CgmAw/edit))
+- [Reverse Engineering: Functions and Frames](https://youtu.be/3IdeyjrMBA4) (slides [here](https://docs.google.com/presentation/d/125gIw6rNKvwa-1DO6j3HTWbWtr2q3xD2coTCb0CgmAw/edit))
 - [Reverse Engineering: Data Access]() (slides [here](https://docs.google.com/presentation/d/154CQfQtpleaAQv9xNI1FVosbXc_18VZvXVpcs9Ljzzo/edit#slide=id.p))
 - **Coming soon** [Reverse Engineering: Static Tools]() (slides [here]())
 - **Coming soon** [Reverse Engineering: Dynamic Tools]() (slides [here]())
