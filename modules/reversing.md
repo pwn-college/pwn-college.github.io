@@ -109,7 +109,7 @@ If there were more arguments, they would be pointed to by `argv[2]`, `argv[3]`, 
 What if there are no arguments?
 
 ```
-$ ./test testing
+$ ./test
 The number of arguments is: 1
 The program name is: ./test
 The first argument is: (null)
