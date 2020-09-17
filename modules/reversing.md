@@ -29,7 +29,7 @@ If you produce correct input, you can get it to read the flag and print it out t
 Some challenges will force you to "crack" them.
 Good luck!
 
-If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **CHALLENGES WILL LAUNCH DURING THE LIVE TWITCH STREAM ON 9/16/2020!**
+If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
 
 ## Useful Tools
 
