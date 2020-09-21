@@ -3,9 +3,9 @@
 Because of the lack of memory safety in low-level languages, such as C, memory corruption vulnerabilities manifest quite frequently, to brutal effect.
 This module will explore a number of different exploitation scenarios, using different types of flaws to achieve control over software.
 
-## Slides
+## Lectures
 
-The slides for this module are:
+The lectures for this module are:
 
 - [Memory Errors: Introduction](https://youtu.be/z_XOhfsVKnU) (slides [here](https://docs.google.com/presentation/d/10cq3gCAvYjh_fzqiLLc1hCyqchux7x8pcskk6xGdVL8/edit#slide=id.p))
 - [Memory Errors: High-level Problems](https://youtu.be/4PJvcZZIyT8) (slides [here](https://docs.google.com/presentation/d/1umxk_Gq_yGeCcBEz9toQ6Wil8G1bmK3NdrkFITadPhs/edit#slide=id.p))
@@ -13,9 +13,12 @@ The slides for this module are:
 - **COMING SOON** [Memory Errors: Signedness Mixups]() (slides [here]())
 - **COMING SOON** [Memory Errors: Off-by-one Errors]() (slides [here]())
 - **COMING SOON** [Memory Errors: Termination Problems]() (slides [here]())
-- **COMING SOON** [Memory Errors: NX Mitigations]() (slides [here]())
 - **COMING SOON** [Memory Errors: ASLR Mitigations]() (slides [here]())
 - **COMING SOON** [Memory Errors: Stack Canary Mitigations]() (slides [here]())
+
+The following lectures from previous modules are also quite relevant:
+
+- [Shellcoding: Data Execution Prevention](https://www.youtube.com/watch?v=GH4NBLtPmyo) (slides [here](https://docs.google.com/presentation/d/1tH6jbnpX2_T5ZeDzZBfpLZ-ngpIZp3g25PPQaTr52JU/edit#slide=id.g6c717ad36e_1_0))
 
 Additionally, you should be quite familiar with the following fundamental knowledge:
 
