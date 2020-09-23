@@ -61,15 +61,16 @@ So far, the following modules are live:
 - [Module 2: Shellcode](modules/shellcode)
 - [Module 3: Sandboxing](modules/sandbox)
 - [Module 4: Binary Reverse Engineering](modules/reversing)
-- Module 5: Introduction to Memory Corruption: **videos launch weekend of 09/19, challenges launch 09/23**
-- Module 6: Return Oriented Programming:       **videos launch weekend of 09/26, challenges launch 09/30**
-- Module 7: Dynamic Allocator Misuse:          **videos launch weekend of 10/03, challenges launch 10/07**
-- Module 8: Format String Abuse:               **videos launch weekend of 10/10, challenges launch 10/14**
-- Module 9: Race Conditions:                   **videos launch weekend of 10/17, challenges launch 10/21**
-- Module 10: Kernel Exploitation:               **videos launch weekend of 10/31, challenges launch 11/04**
-- Module 11: Automatic Vulnerability Discovery: **videos launch weekend of 11/07, challenges launch 11/11**
+- [Module 5: Memory Errors](modules/memory): **videos launch weekend of 09/26, challenges launch 09/30**
+- Module 6: Exploitation Scenarios
+- Module 7: Return Oriented Programming
+- Module 8: Dynamic Allocator Misuse
+- Module 9: Race Conditions
+- Module 10: Kernel Exploitation
+- Module 11: Advanced Exploitation Scenarios
+- Module 12: Automatic Vulnerability Discovery
 
-Additional modules will be launched on a weekly basis!
+Modules will be launched on a weekly basis (except for binary reverse engineering, which has been extended to two weeks)!
 If you are impatient, you can check out archived modules from the pwn.college beta at the bottom of the page.
 
 

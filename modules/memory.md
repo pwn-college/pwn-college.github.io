@@ -13,6 +13,7 @@ The lectures for this module are:
 - **COMING SOON** [Memory Errors: Signedness Mixups]() (slides [here]())
 - **COMING SOON** [Memory Errors: Off-by-one Errors]() (slides [here]())
 - **COMING SOON** [Memory Errors: Termination Problems]() (slides [here]())
+- **COMING SOON** [Memory Errors: Uninitialized Data]() (slides [here]())
 - **COMING SOON** [Memory Errors: ASLR Mitigations]() (slides [here]())
 - **COMING SOON** [Memory Errors: Stack Canary Mitigations]() (slides [here]())
 
