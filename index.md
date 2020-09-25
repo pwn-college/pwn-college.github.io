@@ -17,7 +17,7 @@ pwn.college is hosted across a number of internet services:
 **Stream Schedule (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
 - Extended module Q&A, auxiliary lecturing, and collaborative problem solving: Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/). **NEXT MODULE: sandboxing**
 - Yan's office hours: Mondays at 3:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
-- Connor's office hours: Tuesdays at 2:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
+- Connor's office hours: Fridays at 2:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
 
 All streams are open to THE WORLD! ASU students will get a private voice channel, but everyone can ask questions on twitch.
 
