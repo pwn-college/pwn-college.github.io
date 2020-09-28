@@ -9,7 +9,7 @@ The lectures for this module are:
 
 - [Memory Errors: Introduction](https://youtu.be/z_XOhfsVKnU) (slides [here](https://docs.google.com/presentation/d/10cq3gCAvYjh_fzqiLLc1hCyqchux7x8pcskk6xGdVL8/edit#slide=id.p))
 - [Memory Errors: High-level Problems](https://youtu.be/4PJvcZZIyT8) (slides [here](https://docs.google.com/presentation/d/1umxk_Gq_yGeCcBEz9toQ6Wil8G1bmK3NdrkFITadPhs/edit#slide=id.p))
-- **COMING SOON** [Memory Errors: Smashing the Stack]() (slides [here]())
+- [Memory Errors: Smashing the Stack](https://youtu.be/PVx1hUlMxtQ) (slides [here](https://docs.google.com/presentation/d/1_Zs7s7O_VqXd8prv0GIjUT993qL3KgjVby8qC0Ixs_w/edit#slide=id.p))
 - **COMING SOON** [Memory Errors: Signedness Mixups]() (slides [here]())
 - **COMING SOON** [Memory Errors: Off-by-one Errors]() (slides [here]())
 - **COMING SOON** [Memory Errors: Termination Problems]() (slides [here]())
