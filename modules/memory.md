@@ -10,12 +10,11 @@ The lectures for this module are:
 - [Memory Errors: Introduction](https://youtu.be/z_XOhfsVKnU) (slides [here](https://docs.google.com/presentation/d/10cq3gCAvYjh_fzqiLLc1hCyqchux7x8pcskk6xGdVL8/edit#slide=id.p))
 - [Memory Errors: High-level Problems](https://youtu.be/4PJvcZZIyT8) (slides [here](https://docs.google.com/presentation/d/1umxk_Gq_yGeCcBEz9toQ6Wil8G1bmK3NdrkFITadPhs/edit#slide=id.p))
 - [Memory Errors: Smashing the Stack](https://youtu.be/PVx1hUlMxtQ) (slides [here](https://docs.google.com/presentation/d/1_Zs7s7O_VqXd8prv0GIjUT993qL3KgjVby8qC0Ixs_w/edit#slide=id.p))
-- **COMING SOON** [Memory Errors: Signedness Mixups]() (slides [here]())
-- **COMING SOON** [Memory Errors: Off-by-one Errors]() (slides [here]())
-- **COMING SOON** [Memory Errors: Termination Problems]() (slides [here]())
-- **COMING SOON** [Memory Errors: Uninitialized Data]() (slides [here]())
-- **COMING SOON** [Memory Errors: ASLR Mitigations]() (slides [here]())
-- **COMING SOON** [Memory Errors: Stack Canary Mitigations]() (slides [here]())
+- [Memory Errors: Causes of Corruption 1](https://www.youtube.com/watch?v=u80_j06HkpM) (slides [here](https://docs.google.com/presentation/d/1N5ybP1-SyU-PbQKMBRfFdNntbLPCOkROOybf_ZYBBBI/edit#slide=id.p))
+- [Memory Errors: Causes of Corruption 2](https://www.youtube.com/watch?v=fVa2xahshik) (slides [here](https://docs.google.com/presentation/d/1N5ybP1-SyU-PbQKMBRfFdNntbLPCOkROOybf_ZYBBBI/edit#slide=id.p))
+- [Memory Errors: Stack Canary Mitigations](https://youtu.be/55zWlEFflgE) (slides [here](https://docs.google.com/presentation/d/19bO811-RSjez-E8zGMJYvUwFi5jW-vRTv19z1g8ZT3I/edit#slide=id.p))
+- [Memory Errors: ASLR Mitigations](https://youtu.be/SBqERAbDdAk) (slides [here](https://docs.google.com/presentation/d/1EOUvQsDsk5eg1Ysq9Us-CnLgCOP5IRIR8P6FThBVeGo/edit#slide=id.p))
+- [Memory Errors: Causes of Disclosure](https://youtu.be/S9IIGVK6K0I) (slides [here](https://docs.google.com/presentation/d/1Qonbh98U_s3aN9Ut0dgdHFnm_ymb9e2yUqT6bkY4FbU/edit#slide=id.p))
 
 The following lectures from previous modules are also quite relevant:
 
