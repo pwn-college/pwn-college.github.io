@@ -61,7 +61,7 @@ So far, the following modules are live:
 - [Module 2: Shellcode](modules/shellcode)
 - [Module 3: Sandboxing](modules/sandbox)
 - [Module 4: Binary Reverse Engineering](modules/reversing)
-- [Module 5: Memory Errors](modules/memory): **videos launch weekend of 09/26, challenges launch 09/30**
+- [Module 5: Memory Errors](modules/memory)
 - Module 6: Exploitation Scenarios
 - Module 7: Return Oriented Programming
 - Module 8: Dynamic Allocator Misuse

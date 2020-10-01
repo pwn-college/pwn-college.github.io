@@ -38,4 +38,4 @@ If you exploit it, you can get it to read the flag and print it out to you.
 
 The up-shot is this: to read the `/flag` for a binary, you will have to understand how to exploit it.
 
-If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **NOTE: challenges will launch 9/30**
+If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
