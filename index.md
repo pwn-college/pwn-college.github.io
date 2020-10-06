@@ -62,7 +62,7 @@ So far, the following modules are live:
 - [Module 3: Sandboxing](modules/sandbox)
 - [Module 4: Binary Reverse Engineering](modules/reversing)
 - [Module 5: Memory Errors](modules/memory)
-- Module 6: Exploitation Scenarios
+- [Module 6: Exploitation Scenarios](modules/combo1) **CHALLENGES LAUNCHING 10/7/2020**
 - Module 7: Return Oriented Programming
 - Module 8: Dynamic Allocator Misuse
 - Module 9: Race Conditions
