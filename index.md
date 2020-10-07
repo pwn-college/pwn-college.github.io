@@ -57,7 +57,7 @@ pwn.college has come out of beta, and modules are being launched alongside the p
 So far, the following modules are live:
 
 - [Module 0: Introduction](modules/intro)
-- [Module 1: Privilege Escalation](modules/suid)
+- [Module 1: Program Misuse](modules/suid)
 - [Module 2: Shellcode](modules/shellcode)
 - [Module 3: Sandboxing](modules/sandbox)
 - [Module 4: Binary Reverse Engineering](modules/reversing)
@@ -73,9 +73,23 @@ So far, the following modules are live:
 Modules will be launched on a weekly basis (except for binary reverse engineering, which has been extended to two weeks)!
 If you are impatient, you can check out archived modules from the pwn.college beta at the bottom of the page.
 
+# Collaboration, Livestream, and Writeup Policy
 
+The challenges created for pwn.college are educational material, and are used to grade CSE466 students at ASU.
+Because of this, we would appreciate that writeups, walkthrough videos, and livestreams of challenge solutions are not posted to the internet.
+Obviously, we can't enforce this, but we worked hard to make all of this public, and we would appreciate your help in keeping pwn.college a viable educational platform.
 
+**Exceptions:** Really passionate about making walkthrough videos/streams/writeups?
+We got you covered!
+Feel free to do walkthroughs of:
 
+- Program Misuse (Module 1): levels 1 and 2
+- Shellcode (Module 2): levels 1 and 2
+- Sandboxing (Module 3): levels 1 and 2
+- Binary Reverse Engineering (Module 4): levels 1 and 2, and 14
+- Memory Errors (Module 5): levels 1 and 2
+
+If you email us a link to your video or writeup, we will link it from the relevant module page!
 
 # Further Practice
 
