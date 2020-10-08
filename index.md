@@ -8,7 +8,7 @@ pwn.college was created by [Zardus (Yan Shoshitaishvili)](http://yancomm.net) an
 It powers ASU's Computer Systems Security course, CSE466, and is now open, for free, to participation for interested people around the world!
 
 pwn.college is hosted across a number of internet services:
-- We record our [lectures on YouTube](https://www.youtube.com/channel/UCBaWwFw7KmCN8YlfX4ERYKg/).
+- We record our [lectures on YouTube](https://www.youtube.com/c/pwncollege).
 - We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4:30pm to 7:30pm AZ time, along with office hours and prerecorded lecture streams.
 - We host [practice problems on our infrastructure](https://cse466.pwn.college).
 - We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
