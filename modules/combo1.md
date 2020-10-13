@@ -21,4 +21,4 @@ There are a number of difficulty levels, and each challenge combines concepts fr
 Each challenge will tell you the concepts that it combines, which should help get you on the right path.
 If you exploit it, you can get it to read the flag and print it out to you.
 
-If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **NOTE: CHALLENGES LAUNCH 10/7/2020**
+If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
