@@ -15,7 +15,7 @@ pwn.college is hosted across a number of internet services:
 - We host collaboration hours during our Wednesday lectures on [discord](https://discord.com/invite/68x4ADt).
 
 **Stream Schedule (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
-- Extended module Q&A, auxiliary lecturing, and collaborative problem solving: Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/). **NEXT MODULE: sandboxing**
+- Extended module Q&A, auxiliary lecturing, and collaborative problem solving: Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/).
 - Yan's office hours: Mondays at 3:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
 - Connor's office hours: Fridays at 2:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
 
