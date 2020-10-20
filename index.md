@@ -106,6 +106,23 @@ You can find a list of wargames at [https://github.com/zardus/wargame-nexus](htt
 
 If you want to get involved with cybersecurity research, but don't know how, consider joining us for an [internship at ASU](https://sefcom.asu.edu/apprenticeship).
 
+# Reusing pwn.college Material
+
+Want to use pwn.college in your course?
+**You can!**
+
+The videos and slides of pwn.college lectures are licensed under CC-BY.
+You can use them freely, but please provide attribution!
+Additionally, if you use pwn.college in your own education program, we would appreciate it if you email us to let us know.
+Evidence of wide-spread use of pwn.college for education will be a huge help for Yan's tenure case!
+
+**EDUCATORS:**
+If you are an educational institution and are using pwn.college as part of a class, you can request a (free) **private instance** of the infrastructure!
+Please [email](mail:pwn-college@asu.edu) us to ask!
+
+**CONFERENCES:**
+If you are running a conference and would like pwn.college presense there (as a form of intense weekend-long traning), please [email](mail:pwn-college@asu.edu) us!
+
 # Contributing
 
 The [infrastructure powering pwn.college](https://github.com/pwncollege/pwncollege) and [the web-facing content](https://github.com/pwncollege/pwn-college.github.io) are open source, and we welcome pull requests and issues.
