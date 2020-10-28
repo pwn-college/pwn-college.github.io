@@ -19,4 +19,4 @@ The goal of the challenge sets in this module is to get the flag.
 There are a number of difficulty levels, and each challenge explores increasingly complex concepts in ROP.
 If you exploit it, you can get it to read the flag and print it out to you.
 
-If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **CHALLENGES GO LIVE ON 10/21/2020**
+If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!

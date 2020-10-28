@@ -64,10 +64,10 @@ So far, the following modules are live:
 - [Module 4: Binary Reverse Engineering](modules/reversing)
 - [Module 5: Memory Errors](modules/memory)
 - [Module 6: Exploitation Scenarios](modules/combo1)
-- [Module 7: Return Oriented Programming](modules/rop) **CHALLENGES LAUNCHING 10/21/2020**
-- Module 8: Dynamic Allocator Misuse
-- Module 9: Race Conditions
-- Module 10: Kernel Exploitation
+- [Module 7: Return Oriented Programming](modules/rop)
+- [Module 8: Kernel Security](modules/kernel)
+- Module 9: Dynamic Allocator Misuse
+- Module 10: Race Conditions
 - Module 11: Advanced Exploitation Scenarios
 - Module 12: Automatic Vulnerability Discovery
 
