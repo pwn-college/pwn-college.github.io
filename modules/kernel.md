@@ -16,3 +16,7 @@ Each challenge will lock you inside the userspace of an emulated system, and you
 There are a number of difficulty levels, and each challenge explores increasingly complex concepts in OS kernels.
 
 If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **CHALLENGES GO LIVE ON 10/28/2020**
+
+## Further Reading
+
+For interested students, we highly recommend reading the excellent [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/) book!
