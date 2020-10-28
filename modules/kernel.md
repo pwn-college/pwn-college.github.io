@@ -10,6 +10,7 @@ The lectures for this module are:
 - [Kernel: Introduction](https://youtu.be/j0I2AakUAxk) (slides [here](https://docs.google.com/presentation/d/1oUaPUtLIDEMcK49gwvEMmXTyMBVQAeCWvSONV3OkIio/edit#slide=id.p))
 - [Kernel: Environment Setup](https://youtu.be/mDn5IxMetgQ) (slides [here](https://docs.google.com/presentation/d/1Ik7EWjn_9ywzCW3MpJJ0eVdIvhIMP6brObBQQDtYDCo/edit#slide=id.p))
 - [Kernel: Kernel Modules](https://youtu.be/DLWBWeN2ebM) (slides [here](https://docs.google.com/presentation/d/1JP1VBpK-kapHanMT4rAF9UtGglId_ZXD2Xh46gPQZFM/edit#slide=id.p))
+- [Kernel: Privilege Escalation](https://youtu.be/8ty-IFWvuHM) (slides [here](https://docs.google.com/presentation/d/1tcR4YsVhN2kVUfe8RJw56dtSs-QOwp4-g8qgI0Q3kFM/edit#slide=id.p))
 
 ## Practice
 
