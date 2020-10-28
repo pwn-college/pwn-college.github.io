@@ -8,6 +8,7 @@ We'll use these concepts to explore vulnerabilities in the kernel as part of the
 The lectures for this module are:
 
 - [Kernel: Introduction](https://youtu.be/j0I2AakUAxk) (slides [here](https://docs.google.com/presentation/d/1oUaPUtLIDEMcK49gwvEMmXTyMBVQAeCWvSONV3OkIio/edit#slide=id.p))
+- [Kernel: Environment Setup](https://youtu.be/mDn5IxMetgQ) (slides [here](https://docs.google.com/presentation/d/1Ik7EWjn_9ywzCW3MpJJ0eVdIvhIMP6brObBQQDtYDCo/edit#slide=id.p))
 
 ## Practice
 
