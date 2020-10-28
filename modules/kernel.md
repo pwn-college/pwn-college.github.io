@@ -20,4 +20,7 @@ If you are ready to tackle the challenges, go to [https://cse466.pwn.college](ht
 
 ## Further Reading
 
-For interested students, we highly recommend reading the excellent [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/) book!
+- For interested students, we highly recommend reading the excellent [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/) book!
+- A [guide](https://www.kernel.org/doc/Documentation/dev-tools/gdb-kernel-debugging.rst) to debugging a kernel running in qemu from gdb.
+- Our [kernel dev and pwn environment](https://github.com/pwncollege/pwnkernel).
+- A much more feature-rich [kernel dev and pwn environment](https://github.com/cirosantilli/linux-kernel-module-cheat).
