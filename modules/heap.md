@@ -10,6 +10,7 @@ The slides for this module are:
 - [Dynamic Allocator Misuse: Dangers of the Heap](https://youtu.be/Cr9IeGQxFoc) (slides [here](https://docs.google.com/presentation/d/1T5XruKzTxlpslT50op_wxvFsnsa4gshIM0Tue1f8zc4/edit))
 - [Dynamic Allocator Misuse: tcache](https://youtu.be/0jHtqqdVv1Y) (slides [here](https://docs.google.com/presentation/d/13NbUlNvj1Rm-Cc_E_Crp678c-mgzCi0BYfzXIzFB3zI/edit))
 - [Dynamic Allocator Misuse: Chunks and Metadata](https://youtu.be/osFevdDR0Xw) (slides [here](https://docs.google.com/presentation/d/1BlapIDslDaWeBPUamdG0i35-yveGvWJHZaW_0dan6sU/edit))
+- [Dynamic Allocator Misuse: Metadata Corruption](https://youtu.be/PtpPcGcX020) (slides [here](https://docs.google.com/presentation/d/14SYq0TTVxEGWHNUG1BP66A8liPDD2pqJUs2WrXlCZNE/edit))
 
 ## Practice
 
