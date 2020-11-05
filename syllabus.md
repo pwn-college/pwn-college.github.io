@@ -7,10 +7,10 @@ This is the syllabus for CSE 466, Fall 2020.
 This course will take students through an exploration of the ways that the Security of Computer Systems can fail.
 Security is a complicated thing: it is only as strong as its weakest link, and a small, single mistake can often bring down otherwise extremely secure software.
 
-Taking the intuition that, to build secure systems in the future, one must understand how security can break, we will cover a number of different failure modes of compuer systems, ranging from application security to network and operating system security to web security.
+Taking the intuition that, to build secure systems in the future, one must understand how security can break, we will cover a number of different failure modes of computer systems, ranging from application security to network and operating system security to web security.
 Each lecture will consist of an introduction to a new topic, examples of real-world effects of security failures related to the topic, and an assignment for students to explore these concepts.
 
-These assignments will be very thorough, and by the end, students will have an _intuitive_ understand on how to exploit these vulnerabilities, and will have the building blocks needed to prevent them, both in the lab and in the real world.
+These assignments will be very thorough, and by the end, students will have an _intuitive_ understanding on how to exploit these vulnerabilities, and will have the building blocks needed to prevent them, both in the lab and in the real world.
 
 ## Prerequisites
 
