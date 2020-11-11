@@ -98,6 +98,7 @@ After you learn the basics of cybersecurity and achieve yellow belt status, you 
 
 Capture The Flags (CTFs) are a great way to practice your hacking skills in a fun and ethical way.
 The most popular way to find upcoming events is at [https://ctftime.org](https://ctftime.org).
+There is also a list of introductory CTFs [here](https://zaratec.github.io/ctf-practice/).
 If you are at ASU, feel free to check out and join ASU's CTF club _pwndevils_ at [https://pwndevils.com](https://pwndevils.com).
 
 Wargames are another great way to practice your hacking skills.
