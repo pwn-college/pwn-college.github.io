@@ -66,8 +66,8 @@ So far, the following modules are live:
 - [Module 6: Exploitation Scenarios](modules/combo1)
 - [Module 7: Return Oriented Programming](modules/rop)
 - [Module 8: Kernel Introduction](modules/kernel)
-- [Module 9: Dynamic Allocator Misuse](modules/heap) **CHALLENGES COMING 11/4/2020**
-- Module 10: Race Conditions
+- [Module 9: Dynamic Allocator Misuse](modules/heap)
+- [Module 10: Race Conditions](modules/race) **CHALLENGES COMING 11/18/2020**
 - Module 11: Advanced Exploitation Scenarios
 - Module 12: Automatic Vulnerability Discovery
 
