@@ -10,6 +10,7 @@ The slides for this module are:
 - [Race Conditions: Races in the Filesystem](https://youtu.be/dpsWLu8jxBg) (slides [here](https://docs.google.com/presentation/d/1aMSJoBqDIY0cYwFwEa4uq4mzjScGzZDFbmkvVcrbF-4/edit))
 - [Race Conditions: Processes and Threads](https://youtu.be/_hDP1wZKkaI) (slides [here](https://docs.google.com/presentation/d/11Fq9HwG6yYB9fkEJ-ZJ4kHbu-hL4WizAiUoX9prPN8Y/edit))
 - [Race Conditions: Races in Memory](https://youtu.be/jNIgU4kI6wY) (slides [here](https://docs.google.com/presentation/d/1u-aSz-mqwkMIZEDAR-AEPKw5JPn-1q_3Ek_C6JjQUzY/edit))
+- [Race Conditions: Signals and Reentrancy](https://youtu.be/bPWQFhsUkbs) (slides [here](https://docs.google.com/presentation/d/1LOmzo79U_QmdggdfQwDej47886iqHIPDGXpl506_SYY/edit))
 
 ## Practice
 
