@@ -21,4 +21,4 @@ Each program will be vulnerable to some sort of race condition.
 You can subvert the program by cleverly taking advantage of concurrency mishandling.
 If you are successful, you can use it to read the `/flag` file.
 
-If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **CHALLENGES WILL LAUNCH ON 11/18**
+If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
