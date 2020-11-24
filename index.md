@@ -63,12 +63,12 @@ So far, the following modules are live:
 - [Module 3: Sandboxing](modules/sandbox)
 - [Module 4: Binary Reverse Engineering](modules/reversing)
 - [Module 5: Memory Errors](modules/memory)
-- [Module 6: Exploitation Scenarios](modules/combo1)
+- [Module 6: Exploitation](modules/combo1)
 - [Module 7: Return Oriented Programming](modules/rop)
 - [Module 8: Kernel Introduction](modules/kernel)
 - [Module 9: Dynamic Allocator Misuse](modules/heap)
 - [Module 10: Race Conditions](modules/race)
-- Module 11: Advanced Exploitation Scenarios
+- [Module 11: Advanced Exploitation](modules/combo2)
 - Module 12: Automatic Vulnerability Discovery
 
 Modules will be launched on a weekly basis (except for binary reverse engineering, which has been extended to two weeks)!
