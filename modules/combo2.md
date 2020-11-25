@@ -21,3 +21,7 @@ Each challenge will tell you the concepts that it combines, which should help ge
 If you exploit it, you can get it to read the flag and print it out to you.
 
 If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **CHALLENGES COMING 11/25/2020**
+
+## Further Reading
+
+- A very good primer for digging around memory [here](https://www.nickgregory.me/security/2019/04/06/pivoting-around-memory/).
