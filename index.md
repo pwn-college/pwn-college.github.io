@@ -8,11 +8,11 @@ pwn.college was created by [Zardus (Yan Shoshitaishvili)](http://yancomm.net) an
 It powers ASU's Computer Systems Security course, CSE466, and is now open, for free, to participation for interested people around the world!
 
 pwn.college is hosted across a number of internet services:
-- We record our [lectures on YouTube](https://www.youtube.com/c/pwncollege).
-- We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4:30pm to 7:30pm AZ time, along with office hours and prerecorded lecture streams.
-- We host [practice problems on our infrastructure](https://cse466.pwn.college).
-- We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
-- We host collaboration hours during our Wednesday lectures on [discord](https://discord.com/invite/68x4ADt).
+- **LECTURES:** We record our [lectures on YouTube](https://www.youtube.com/c/pwncollege).
+- **OFFICE HOURS:** We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4:30pm to 7:30pm AZ time, along with office hours and prerecorded lecture streams.
+- **CHALLENGES:** We host [practice problems on our infrastructure](https://cse466.pwn.college).
+- **MAILING LIST:** We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
+- **DISCORD:** We collaborate on [discord](https://discord.com/invite/68x4ADt)!
 
 **Stream Schedule (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
 - Module video stream (pre-recorded): Wednesdays at 2:30pm [on Twitch](https://www.twitch.tv/pwncollege/).
