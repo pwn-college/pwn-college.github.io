@@ -9,6 +9,7 @@ The lectures for this module are:
 
 - [Advanced Exploitation: Introduction](https://youtu.be/s7DCT9qccYc) (slides [here](https://docs.google.com/presentation/d/1uHpo78FQVv8RaPe0IVUMXRBouBau6j4JFgx3_1-_wIw/edit))
 - [Advanced Exploitation: Heap Address Disclosure via Race Conditions](https://youtu.be/LFlsuBF-s7g) (slides [here](https://docs.google.com/presentation/d/1Nh47gCskB3Cr1d6Yr1Q8RWwt2p8DlHvJbwgSs-3m4kA/edit))
+- [Advanced Exploitation: Digging Through Memory](https://youtu.be/WElEwa1pXCw) (slides [here](https://docs.google.com/presentation/d/1UY3GniieKBiphekH_RmkghYdm5M5DBNklHCxfN2S62A/edit))
 
 Being a "putting it together" module, all lectures of all previous modules are also critical.
 
