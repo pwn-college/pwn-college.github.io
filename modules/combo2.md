@@ -12,6 +12,7 @@ The lectures for this module are:
 - [Advanced Exploitation: Digging Through Memory](https://youtu.be/WElEwa1pXCw) (slides [here](https://docs.google.com/presentation/d/1UY3GniieKBiphekH_RmkghYdm5M5DBNklHCxfN2S62A/edit))
 - [Advanced Exploitation: Exploit Primitives](https://youtu.be/PY9fNJel-X8) (slides [here](https://docs.google.com/presentation/d/1fMVQqCeNioayny-oUd3uYFNzkyHDz3u-B8f_JiJtf6Y/edit))
 - [Advanced Exploitation: End-to-End Pwnage](https://youtu.be/okLF1WnbV4M) (slides [here](https://docs.google.com/presentation/d/1Q6ZjNq7VeU08Tba5uWkgJy6IMH5sDT8jCW1d8vmau4M/edit))
+- [Advanced Exploitation: Escaping Seccomp](https://youtu.be/mKzUA3j6myg) (slides [here](https://docs.google.com/presentation/d/1YMlOERClX6Yi8Fb9DYxBBJ5MYB1C-_F75XKkoSmbl8k/edit))
 
 Being a "putting it together" module, all lectures of all previous modules are also critical.
 
