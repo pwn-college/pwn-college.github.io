@@ -69,7 +69,7 @@ So far, the following modules are live:
 - [Module 9: Dynamic Allocator Misuse](modules/heap)
 - [Module 10: Race Conditions](modules/race)
 - [Module 11: Advanced Exploitation](modules/combo2)
-- Module 12: Automatic Vulnerability Discovery
+- [Module 12: Automatic Vulnerability Discovery](modules/auto) **CHALLENGES LAUNCHING 12/3**
 
 Modules will be launched on a weekly basis (except for binary reverse engineering, which has been extended to two weeks)!
 If you are impatient, you can check out archived modules from the pwn.college beta at the bottom of the page.
