@@ -2,9 +2,9 @@
 
 This module explores the abuse of heap operations and heap datastructures during exploitation.
 
-## Slides
+## Lectures
 
-The slides for this module are:
+The lectures for this module are:
 
 - [Dynamic Allocator Misuse: What is the Heap?](https://youtu.be/coAJ4KyrWmY) (slides [here](https://docs.google.com/presentation/d/16XMoNQQB_jP0odRvQFhgMi3Neo9VR0g1jBvBXKYBnh0/edit))
 - [Dynamic Allocator Misuse: Dangers of the Heap](https://youtu.be/Cr9IeGQxFoc) (slides [here](https://docs.google.com/presentation/d/1T5XruKzTxlpslT50op_wxvFsnsa4gshIM0Tue1f8zc4/edit))

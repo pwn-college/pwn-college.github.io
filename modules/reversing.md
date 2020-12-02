@@ -4,7 +4,7 @@ This module is an introduction to reverse engineering of binary code.
 Oftentimes, developers pack secret information into binary code, assuming that it is safe there.
 You will prove that this assumption is flawed.
 
-## Slides
+## Lectures
 
 This module consists of the following lectures:
 

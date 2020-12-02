@@ -2,9 +2,9 @@
 
 This module explores the bugs and vulnerabilities arising from incorrect handling of concurrency, and other related issues.
 
-## Slides
+## Lectures
 
-The slides for this module are:
+The lectures for this module are:
 
 - [Race Conditions: Introduction](https://youtu.be/jXQ8Y5B2sc0) (slides [here](https://docs.google.com/presentation/d/1cwaI8mwYBAj_GBrDqfCHM4_ansWHlkT5tBIFo8zJqsI/edit))
 - [Race Conditions: Races in the Filesystem](https://youtu.be/dpsWLu8jxBg) (slides [here](https://docs.google.com/presentation/d/1aMSJoBqDIY0cYwFwEa4uq4mzjScGzZDFbmkvVcrbF-4/edit))
