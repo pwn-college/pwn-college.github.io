@@ -10,7 +10,7 @@ Below is a list of true hackers: those who stared at the yellow box, and rather 
 
 For demonstrating hacker mastery in the completion of all active challenges on pwn.college, the following individuals have been awarded the rank of BLUE BELT.
 
-- TODO
+- *Ascended 12/4/2020:* [frqmod](mailto:frqmod@gmail.com)
 
 ## Yellow Belts
 
