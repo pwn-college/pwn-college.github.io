@@ -15,10 +15,10 @@ pwn.college is hosted across a number of internet services:
 - **MAILING LIST:** We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
 
 **Stream Schedule from August through November (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
-- Module video stream (pre-recorded): Wednesdays at 2:30pm [on Twitch](https://www.twitch.tv/pwncollege/).
-- Extended module Q&A, auxiliary lecturing, and collaborative problem solving (live): Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/).
-- Yan's office hours (live): Mondays at 3:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
-- Connor's office hours (live): Fridays at 2:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
+- **COMING BACK AUGUST 2021:** Module video stream (pre-recorded): weekly [on Twitch](https://www.twitch.tv/pwncollege/).
+- **COMING BACK AUGUST 2021:** Extended module Q&A, auxiliary lecturing, and collaborative problem solving (live): weekly [on Twitch](https://www.twitch.tv/pwncollege/).
+- **COMING BACK AUGUST 2021:** Yan's office hours (live): weekly [on Twitch](https://www.twitch.tv/pwncollege/).
+- **COMING BACK AUGUST 2021:** Connor's office hours (live): weekly [on Twitch](https://www.twitch.tv/pwncollege/).
 
 All streams are open to THE WORLD! ASU students will get a private voice channel, but everyone can ask questions on twitch.
 
