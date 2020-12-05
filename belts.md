@@ -17,3 +17,10 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 Like saplings that shall one day grow into mighty trees, the following individuals have built their foundation of hacking knowledge, earning rank of YELLOW BELT.
 
 - TODO
+
+## How to get on the above lists
+
+You, too, can be listed among the legends above.
+For your yellow belt, complete all pwn.college challenges through the Exploitation module.
+For your blue belt, complete all active pwn.college challenges.
+Once you fulfil the requirements for a belt, [email us](mailto:pwn-college@asu.edu) from the email address associated with your pwn.college account to request your belt and inclusion on this page.
