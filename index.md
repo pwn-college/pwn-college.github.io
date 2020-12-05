@@ -1,7 +1,7 @@
 # Welcome to pwn.college!
 
 pwn.college is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
-It is designed to take a "white belt" in cybersecurity to becoming a "yellow belt", able to approach (simple) CTFs and wargames.
+It is designed to take a "white belt" in cybersecurity to becoming a "blue belt", able to approach (simple) CTFs and wargames.
 The philosophy of pwn.college is "practice makes perfect".
 
 pwn.college was created by [Zardus (Yan Shoshitaishvili)](http://yancomm.net) and [kanak (Connor Nelson)](https://connornelson.com) at Arizona State University.
@@ -9,12 +9,12 @@ It powers ASU's Computer Systems Security course, CSE466, and is now open, for f
 
 pwn.college is hosted across a number of internet services:
 - **LECTURES:** We record our [lectures on YouTube](https://www.youtube.com/c/pwncollege).
-- **OFFICE HOURS:** We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) every Wednesday from 4:30pm to 7:30pm AZ time, along with office hours and prerecorded lecture streams.
+- **OFFICE HOURS:** We stream our [classes on Twitch](https://www.twitch.tv/pwncollege/) during the fall semester (over for 2020), along with office hours and prerecorded lecture streams.
 - **CHALLENGES:** We host [practice problems on our infrastructure](https://cse466.pwn.college).
-- **MAILING LIST:** We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
 - **DISCORD:** We collaborate on [discord](https://discord.com/invite/68x4ADt)!
+- **MAILING LIST:** We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
 
-**Stream Schedule (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
+**Stream Schedule from August through November (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
 - Module video stream (pre-recorded): Wednesdays at 2:30pm [on Twitch](https://www.twitch.tv/pwncollege/).
 - Extended module Q&A, auxiliary lecturing, and collaborative problem solving (live): Wednesdays at 4:30pm [on Twitch](https://www.twitch.tv/pwncollege/).
 - Yan's office hours (live): Mondays at 3:00pm [on Twitch](https://www.twitch.tv/pwncollege/).
@@ -29,6 +29,7 @@ If you have other comments, suggestions, and feedback, please email us at [pwn-c
 Consider hacking as a martial art.
 Newcomers begin as _white belts_, with zero security knowledge.
 Slowly and painfully, they become _yellow belts_, able to reason about simple security challenges and start down the road of, for example, CTF competitions.
+Pushing even forward in that knowledge, understanding how to bypass mitigations and perform complex, multi-stage exploits, makes these students _blue belts_.
 Over time, they become more sure in their skills, achieving _brown belt_ status (and able to, for example, contribute to the cybersecurity industry), before finally graduating to hacking masters: _black belts_.
 
 pwn.college is meant for **white belts**.
@@ -73,6 +74,25 @@ So far, the following modules are live:
 
 Modules will be launched on a weekly basis (except for binary reverse engineering, which has been extended to two weeks)!
 If you are impatient, you can check out archived modules from the pwn.college beta at the bottom of the page.
+
+# Earning Your Belts
+
+This course turns hacker white belts into yellow belts and then refines them into blue belts.
+This is not just metaphor: **we have actual belts**, in yellow and blue, custom-embroidered for pwn.college.
+
+**How to earn a yellow belt?**
+For a yellow belt, you must complete _all_ active challenges through Module 6 (Exploitation).
+
+**How to earn a blue belt?**
+For a blue belt, you must complete _all_ active challenges on pwn.college!
+
+**How to get the actual belt?**
+To get your belt, [send us an email](mailto:pwn-college@asu.edu) from the email address associated with your pwn.college account once you've completed the necessary challenges.
+We'll then get your belt over to you!
+
+**Who has gotten belts?**
+We maintain a [list of hackers with pwn.college belts](belts).
+Once you achieve your belt, if you provide your name, email address, and emoji, we will add you to the [list](belts)!
 
 # Collaboration, Livestream, and Writeup Policy
 
@@ -134,14 +154,6 @@ Likewise, drop us a line if you are interested in collaborating on the slides!
 # ARCHIVED MODULES FROM THE PWN-COLLEGE BETA
 
 The pwn-college beta was announced at HITCON 2019 and ran until August 2020.
-All of the old material is still available below:
+The only old material that was not included in the Fall 2020 edition is:
 
-- [Module 1: Abusing SUID in Linux](modules-old/suid)
-- [Module 2: Shellcode](modules-old/shellcode)
-- [Module 3: Sandboxing](modules-old/sandbox)
-- [Module 4: Reversing](modules-old/reversing)
-- [Module 5: Memory Corruption](modules-old/pwning)
 - [Module 6: Format Strings](modules-old/fmt)
-- [Module 7: Return Oriented Programming](modules-old/rop)
-- [Module 8: Heap Exploitation](modules-old/heap)
-- [Module 9: Kernel Security](modules-old/kernel)
