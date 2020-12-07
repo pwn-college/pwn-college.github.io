@@ -17,7 +17,7 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 
 Like saplings that shall one day grow into mighty trees, the following individuals have built their foundation of hacking knowledge, earning rank of YELLOW BELT.
 
-- TODO
+- 🥺 qrla (Carla) [mail](mailto:loresfca.flores1@gmail.com) [web](https://carla.is.mad.af/) *(ascended 9/9/2020)*
 
 ## How to get on the above lists
 
