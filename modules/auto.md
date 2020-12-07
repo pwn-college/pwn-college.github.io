@@ -20,4 +20,4 @@ There is a `/flag` file, and you get to choose one binary on which the SUID flag
 Each program will require you to find bugs in a large number of programs automatically.
 If you are successful, it will let you read the `/flag` file.
 
-If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)! **CHALLENGES LAUNCHING 12/3**
+If you are ready to tackle the challenges, go to [https://cse466.pwn.college](https://cse466.pwn.college)!
