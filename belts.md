@@ -10,15 +10,15 @@ Below is a list of true hackers: those who stared at the yellow box, and rather 
 
 For demonstrating hacker mastery in the completion of all active challenges on pwn.college, the following individuals have been awarded the rank of BLUE BELT.
 
-- frqmod :yo_yo: [mail](mailto:frqmod@gmail.com) *(ascended 12/4/2020)*
-- Neural :clown_face: [mail](mailto:neural@protonmail.com) *(ascended 12/4/2020)*
-- X3eRo0 :zero: [mail](psinghania929@gmail.com) [web](https://x3ero0.tech) *(ascended 12/8/2020)*
+- frqmod 🪀 [mail](mailto:frqmod@gmail.com) *(ascended 12/4/2020)*
+- Neural 🤡 [mail](mailto:neural@protonmail.com) *(ascended 12/4/2020)*
+- X3eRo0 0️ [mail](psinghania929@gmail.com) [web](https://x3ero0.tech) *(ascended 12/8/2020)*
 
 ## Yellow Belts
 
 Like saplings that shall one day grow into mighty trees, the following individuals have built their foundation of hacking knowledge, earning rank of YELLOW BELT.
 
-- qrla (Carla) :roll_eyes: [mail](mailto:loresfca.flores1@gmail.com) [web](https://carla.is.mad.af/) *(ascended 9/9/2020)*
+- qrla (Carla) 🥺 [mail](mailto:loresfca.flores1@gmail.com) [web](https://carla.is.mad.af/) *(ascended 9/9/2020)*
 
 ## How to get on the above lists
 
