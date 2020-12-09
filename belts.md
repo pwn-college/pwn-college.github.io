@@ -16,6 +16,7 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 - r00tus3r √ [mail](mailto:aajayan@asu.edu) *(ascended 12/7/2020)*
 - /etc/shadow ⚡️ [mail](mailto:danialyunus@gmail.com) [web](https://danialyunus.com) *(ascended 12/7/2020)*
 - Torashulk 🐶 [mail](mailto:torashulk@gmail.com) *(ascended 12/7/2020)*
+- h4x (Fanda Uchytil) ☯ [mail](mailto:cse466.pwn.college.8afzwm3tro@h4x.cz) [web](https://h4x.cz) *(ascended 12/7/2020)*
 - X3eRo0 😉 [mail](mailto:psinghania929@gmail.com) [web](https://x3ero0.tech) *(ascended 12/8/2020)*
 
 ## Yellow Belts
