@@ -1,1 +1,1 @@
-# pwn-college.github.io
+# pwncollege.github.io
