@@ -18,6 +18,7 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 - Torashulk 🐶 [mail](mailto:torashulk@gmail.com) *(ascended 12/7/2020)*
 - h4x (Fanda Uchytil) ☯ [mail](mailto:cse466.pwn.college.8afzwm3tro@h4x.cz) [web](https://h4x.cz) *(ascended 12/7/2020)*
 - X3eRo0 😉 [mail](mailto:psinghania929@gmail.com) [web](https://x3ero0.tech) *(ascended 12/8/2020)*
+- JanitorJeff (Luke Shaffer) 🌯 [mail](mailto:Luke.Shaffer@asu.edu) *(ascended 12/8/2020)*
 - msm65536 *(ascended 12/10/2020)*
 - \*nullptr (Bailey Capuano) 🗅 [mail](mailto:dereferenced.nullptr@gmail.com) *(ascended 12/10/2020)*
 
