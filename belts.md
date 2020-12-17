@@ -21,6 +21,7 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 - JanitorJeff (Luke Shaffer) 🌯 [mail](mailto:Luke.Shaffer@asu.edu) *(ascended 12/8/2020)*
 - msm65536 *(ascended 12/10/2020)*
 - \*nullptr (Bailey Capuano) 🗅 [mail](mailto:dereferenced.nullptr@gmail.com) *(ascended 12/10/2020)*
+- shinji (Maxime Turquetil) ⛰️ [mail](mailto:maturquetil@gmail.com) [web](http://blog.mturquetil.fr/) *(ascended 12/10/2020)*
 
 ## Yellow Belts
 
