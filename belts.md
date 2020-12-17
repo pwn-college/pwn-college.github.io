@@ -30,6 +30,7 @@ Like saplings that shall one day grow into mighty trees, the following individua
 - Narnix 🙃 [mail](mailto:xxie29@asu.edu) *(ascended 11/4/2020)*
 - qrla (Carla) 🥺 [mail](mailto:loresfca.flores1@gmail.com) [web](https://carla.is.mad.af/) *(ascended 11/16/2020)*
 - honeybear (Austin Roach) 🐻 [mail](mailto:ahroach@gmail.com) *(ascended 12/6/2020)*
+- Cascadian (Steven Peterson) [mail](mailto:scpeter9@asu.edu) *(ascended 12/7/2020)*
 
 ## How to get on the above lists
 
