@@ -15,6 +15,8 @@ The concepts from the [Memory Errors](memory.md) and [Shellcoding](shellcode.md)
 
 ## Practice
 
+- Challenges: `babyrop`
+
 The goal of the challenge sets in this module is to get the flag.
 There are a number of difficulty levels, and each challenge explores increasingly complex concepts in ROP.
 If you exploit it, you can get it to read the flag and print it out to you.

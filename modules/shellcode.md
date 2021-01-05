@@ -20,6 +20,8 @@ Additionally, you should be quite familiar with the following fundamental knowle
 
 ## Practice
 
+- Challenges: `babyshell`
+
 You will practice on a set of generated challenges.
 Each program takes your shellcode as input over stdin and will filter and execute your shellcode.
 If your shellcode passes the filters and successfully runs, you can use it to read the `/flag` file.

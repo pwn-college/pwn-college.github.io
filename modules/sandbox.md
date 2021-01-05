@@ -13,6 +13,7 @@ Additionally, you should be quite familiar with the following fundamental knowle
 
 ## Practice
 
+- Challenges: `babyjail`
 
 Again, you will practice on a set of generated challenges.
 Each challenge will sandbox you to protect the flag.

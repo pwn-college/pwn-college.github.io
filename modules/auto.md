@@ -14,6 +14,8 @@ The lectures for this module are:
 
 ## Practice
 
+- Challenges: `babyauto`
+
 Again, you will practice on a set of generated challenges.
 There is a `/flag` file, and you get to choose one binary on which the SUID flag will be set.
 

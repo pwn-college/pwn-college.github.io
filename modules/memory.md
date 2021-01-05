@@ -31,6 +31,8 @@ Additionally, you should be quite familiar with the following fundamental knowle
 
 ## Practice
 
+- Challenges: `babymem`
+
 The goal of the challenge sets in this module is to get the flag.
 There are a number of difficulty levels, but the programs are structured similarly.
 Each program takes user input on stdin (or otherwise) and contains at least one (intentional) vulnerability.

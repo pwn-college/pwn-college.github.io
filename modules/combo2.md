@@ -19,6 +19,8 @@ Being a "putting it together" module, all lectures of all previous modules are a
 
 ## Practice
 
+- Challenges: `toddler2`
+
 The goal of the challenge sets in this module is to get the flag.
 There are a number of difficulty levels, and each challenge combines concepts from multiple modules.
 Each challenge will tell you the concepts that it combines, which should help get you on the right path.

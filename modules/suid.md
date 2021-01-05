@@ -17,6 +17,8 @@ Additionally, the following fundamental lectures may be useful for this module:
 
 ## Practice
 
+- Challenges: `babysuid`
+
 Practice challenges for this module let aspiring hackers practice the (mis)use of Linux software!
 For each challenge, the hacker can choose a single binary on the system to be set SUID, and will then be provided a shell on a Linux environment.
 In this environment, there is a file `/flag`, containing the secret flag that you must read out.

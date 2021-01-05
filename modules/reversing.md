@@ -23,6 +23,8 @@ Additionally, you should be quite familiar with the following fundamental knowle
 
 ## Practice
 
+- Challenges: `babyrev`
+
 The goal of the challenge sets in this module is, as always, to get the flag.
 Most challenge take user input (via a variety of methods), does some operations, and verifies the result.
 If you produce correct input, you can get it to read the flag and print it out to you.
@@ -147,7 +149,7 @@ If I run it in my shell, I get:
 
 ```
 $ gcc countenv.c -o countenv
-$ ./countenv 
+$ ./countenv
 There are 59 environment variables.
 ```
 
@@ -222,8 +224,8 @@ This gives us:
  6dd:	b8 00 00 00 00       	mov    eax,0x0
  6e2:	e8 39 fe ff ff       	call   520 <printf@plt>
  6e7:	b8 00 00 00 00       	mov    eax,0x0
- 6ec:	c9                   	leave  
- 6ed:	c3                   	ret    
+ 6ec:	c9                   	leave
+ 6ed:	c3                   	ret
 ```
 
 Here, we see the function prologue (as discussed in class) at `0x64a` and `0x64b`, which saves off the previous frame pointer and sets up the current frame.
@@ -330,8 +332,8 @@ Disassembling it, we get:
  687:	b8 00 00 00 00       	mov    eax,0x0
  68c:	e8 8f fe ff ff       	call   520 <printf@plt>
  691:	b8 00 00 00 00       	mov    eax,0x0
- 696:	c9                   	leave  
- 697:	c3                   	ret  
+ 696:	c9                   	leave
+ 697:	c3                   	ret
 ```
 
 This is shorter, but it has an more complex _control flow_ than `test`.
