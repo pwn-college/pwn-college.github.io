@@ -23,6 +23,7 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 - \*nullptr (Bailey Capuano) 🗅 [mail](mailto:dereferenced.nullptr@gmail.com) *(ascended 12/10/2020)*
 - shinji (Maxime Turquetil) ⛰️ [mail](mailto:maturquetil@gmail.com) [web](http://blog.mturquetil.fr/) *(ascended 12/10/2020)*
 - foreverip *(ascended 1/3/2021)*
+- honeybear (Austin Roach) 🐻 [mail](mailto:ahroach@gmail.com) *(ascended 12/21/2020)*
 
 ## Yellow Belts
 
@@ -33,7 +34,6 @@ Like saplings that shall one day grow into mighty trees, the following individua
 - Pascal0x90 (Nathan) 🍞 [mail](mailto:pascal-0x90@protonmail.com) [web](https://twitter.com/Pascal_0x90) *(ascended 10/20/2020)*
 - Narnix 🙃 [mail](mailto:xxie29@asu.edu) *(ascended 11/4/2020)*
 - qrla (Carla) 🥺 [mail](mailto:loresfca.flores1@gmail.com) [web](https://carla.is.mad.af/) *(ascended 11/16/2020)*
-- honeybear (Austin Roach) 🐻 [mail](mailto:ahroach@gmail.com) *(ascended 12/6/2020)*
 - Cascadian (Steven Peterson) [mail](mailto:scpeter9@asu.edu) *(ascended 12/7/2020)*
 - codacker (Sunny Mishra) 😏 [mail](mailto:mishrasunny174@gmail.com) [web](https://mishrasunny174.tech) *(ascended 12/13/2020)*
 
