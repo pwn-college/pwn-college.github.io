@@ -22,8 +22,8 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 - msm65536 *(ascended 12/10/2020)*
 - \*nullptr (Bailey Capuano) 🗅 [mail](mailto:dereferenced.nullptr@gmail.com) *(ascended 12/10/2020)*
 - shinji (Maxime Turquetil) ⛰️ [mail](mailto:maturquetil@gmail.com) [web](http://blog.mturquetil.fr/) *(ascended 12/10/2020)*
-- foreverip *(ascended 1/3/2021)*
 - honeybear (Austin Roach) 🐻 [mail](mailto:ahroach@gmail.com) *(ascended 12/21/2020)*
+- foreverip *(ascended 1/3/2021)*
 
 ## Yellow Belts
 
