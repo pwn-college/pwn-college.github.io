@@ -13,10 +13,19 @@ Below is a list of true hackers: those who stared at the yellow box, and rather 
 
 For demonstrating hacker mastery in the completion of all active challenges on pwn.college, the following individuals have been awarded the rank of BLUE BELT.
 
+<ul>
 {% for element in site.data.blue %}
 {% assign belt = element[1] %}
-- <raw>{{ belt.handle | xml_escape }}</raw> {% if belts.name %}({{ belts.name }}){% endif %} {{ belt.emoji }} {% if belts.site %}[site]({{ belts.site }}){% endif %} {% if belts.mail %}[mail](mailto:{{ belts.mail }}){% endif %} *(ascended {{ belt.date | date: "%Y-%m-%d" }})*
+  <li>
+    <raw>{{ belt.handle | xml_escape }}</raw>
+    {% if belts.name %}({{ belts.name }}){% endif %}
+    {% if belts.emoji %}{{ belt.emoji }}{% endif %}
+    {% if belts.site %}[site]({{ belts.site }}){% endif %}
+    {% if belts.mail %}[mail](mailto:{{ belts.mail }}){% endif %}
+    <em>(ascended {{ belt.date | date: "%Y-%m-%d" }})</em>
+  </li>
 {% endfor %}
+<ul>
 
 ## Yellow Belts
 
