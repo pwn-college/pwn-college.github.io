@@ -16,7 +16,6 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 {% for belt in site.data.blue %}
 {% assign belt = belt[1] %}
 - {{ belt.handle }}
-{{ belt.emoji }}
 {% endfor %}
 
 ## Yellow Belts
