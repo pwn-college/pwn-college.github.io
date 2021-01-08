@@ -15,7 +15,7 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 
 {% for element in site.data.blue %}
 {% assign belt = element[1] %}
-- {{ belt.handle | escape }} {% if belts.name %}({{ belts.name }}){% endif %} {{ belt.emoji }} {% if belts.site %}[site]({{ belts.site }}){% endif %} {% if belts.mail %}[mail](mailto:{{ belts.mail }}){% endif %} *(ascended {{ belt.date | date: "%Y-%m-%d" }})*
+- <div>{{ belt.handle | escape }}</div> {% if belts.name %}({{ belts.name }}){% endif %} {{ belt.emoji }} {% if belts.site %}[site]({{ belts.site }}){% endif %} {% if belts.mail %}[mail](mailto:{{ belts.mail }}){% endif %} *(ascended {{ belt.date | date: "%Y-%m-%d" }})*
 {% endfor %}
 
 ## Yellow Belts
