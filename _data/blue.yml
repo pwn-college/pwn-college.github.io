@@ -1,41 +1,56 @@
 '12':
-  handle: frqmod ASCENDED
+  handle: frqmod
   date: '2020-12-05T03:41:49'
+  mail: frqmod@gmail.com
 '204':
-  handle: Neural ASCENDED
+  handle: Neural
   date: '2020-12-05T05:46:09'
+  mail: neural@protonmail.com
 '81':
   handle: gallium
   date: '2020-12-06T10:43:56'
+  mail: jlin139@asu.edu
 '14':
-  handle: r00t [pwndevils]
+  handle: r00tus3r
   date: '2020-12-07T14:22:31'
+  mail: aajayan@asu.edu
 '140':
-  handle: Torashulk ASCENDED
+  handle: Torashulk
   date: '2020-12-08T01:30:10'
+  mail: torashulk@gmail.com
 '85':
-  handle: "/etc/shadow\u26A1\uFE0FASCENDED"
+  handle: /etc/shadow
   date: '2020-12-08T02:03:55'
+  web: https://danialyunus.com/
+  mail: danialyunus@gmail.com
 '370':
-  handle: h4x ASCENDED
+  handle: h4x
   date: '2020-12-08T05:36:04'
+  web: https://h4x.cz/
+  mail: cse466.pwn.college.8afzwm3tro@h4x.cz
 '223':
-  handle: X3eRo0 ASCENDED
+  handle: X3eRo0
   date: '2020-12-08T12:05:15'
+  web: https://x3ero0.tech/
+  mail: psinghania929@gmail.com
 '106':
-  handle: JanitorJeff[da ba dee da ba die]
+  handle: JanitorJeff
   date: '2020-12-08T19:04:13'
+  mail: Luke.Shaffer@asu.edu
 '435':
   handle: msm65536
   date: '2020-12-10T13:14:36'
 '277':
   handle: shinj
   date: '2020-12-10T13:39:47'
+  web: http://blog.mturquetil.fr/
+  mail: maturquetil@gmail.com
 '35':
-  handle: '*nullptr ASCENDED'
+  handle: '*nullptr'
   date: '2020-12-11T02:50:39'
+  mail: dereferenced.nullptr@gmail.com
 '28':
-  handle: mk ASCENDED
+  handle: mk
   date: '2020-12-21T09:20:55'
 '57':
   handle: nopnopgoose
@@ -43,6 +58,7 @@
 '927':
   handle: honeybear
   date: '2020-12-22T04:44:57'
+  mail: ahroach@gmail.com
 '628':
   handle: foreverip
   date: '2021-01-03T16:03:42'
