@@ -32,18 +32,21 @@
 '370':
   handle: h4x
   date: '2020-12-08T05:36:04'
+  name: Fanda Uchytil
   emoji: "\u262F"
   site: https://h4x.cz/
   mail: cse466.pwn.college.8afzwm3tro@h4x.cz
 '223':
   handle: X3eRo0
   date: '2020-12-08T12:05:15'
+  name: Pulkit Singaria
   emoji: "\U0001F609"
   site: https://x3ero0.tech/
   mail: psinghania929@gmail.com
 '106':
   handle: JanitorJeff
   date: '2020-12-08T19:04:13'
+  name: Luke Shaffer
   emoji: "\U0001F32F"
   mail: Luke.Shaffer@asu.edu
 '435':
@@ -52,12 +55,14 @@
 '277':
   handle: shinj
   date: '2020-12-10T13:39:47'
+  name: Maxime Turquetil
   emoji: "\u26F0\uFE0F"
   site: http://blog.mturquetil.fr/
   mail: maturquetil@gmail.com
 '35':
   handle: '*nullptr'
   date: '2020-12-11T02:50:39'
+  name: Bailey Capuano
   emoji: "\U0001F5C5"
   mail: dereferenced.nullptr@gmail.com
 '28':
@@ -69,6 +74,7 @@
 '927':
   handle: honeybear
   date: '2020-12-22T04:44:57'
+  name: Austin Roach
   emoji: "\U0001F43B"
   mail: ahroach@gmail.com
 '628':
