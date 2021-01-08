@@ -1,41 +1,50 @@
 '12':
   handle: frqmod
   date: '2020-12-05T03:41:49'
+  emoji: "\U0001FA80"
   mail: frqmod@gmail.com
 '204':
   handle: Neural
   date: '2020-12-05T05:46:09'
+  emoji: "\U0001F921"
   mail: neural@protonmail.com
 '81':
   handle: gallium
   date: '2020-12-06T10:43:56'
+  emoji: "\U0001F92F"
   mail: jlin139@asu.edu
 '14':
   handle: r00tus3r
   date: '2020-12-07T14:22:31'
+  emoji: "\u221A"
   mail: aajayan@asu.edu
 '140':
   handle: Torashulk
   date: '2020-12-08T01:30:10'
+  emoji: "\U0001F436"
   mail: torashulk@gmail.com
 '85':
   handle: /etc/shadow
   date: '2020-12-08T02:03:55'
+  emoji: "\u26A1\uFE0F"
   web: https://danialyunus.com/
   mail: danialyunus@gmail.com
 '370':
   handle: h4x
   date: '2020-12-08T05:36:04'
+  emoji: "\u262F"
   site: https://h4x.cz/
   mail: cse466.pwn.college.8afzwm3tro@h4x.cz
 '223':
   handle: X3eRo0
   date: '2020-12-08T12:05:15'
+  emoji: "\U0001F609"
   site: https://x3ero0.tech/
   mail: psinghania929@gmail.com
 '106':
   handle: JanitorJeff
   date: '2020-12-08T19:04:13'
+  emoji: "\U0001F32F"
   mail: Luke.Shaffer@asu.edu
 '435':
   handle: msm65536
@@ -43,11 +52,13 @@
 '277':
   handle: shinj
   date: '2020-12-10T13:39:47'
+  emoji: "\u26F0\uFE0F"
   site: http://blog.mturquetil.fr/
   mail: maturquetil@gmail.com
 '35':
   handle: '*nullptr'
   date: '2020-12-11T02:50:39'
+  emoji: "\U0001F5C5"
   mail: dereferenced.nullptr@gmail.com
 '28':
   handle: mk
@@ -58,6 +69,7 @@
 '927':
   handle: honeybear
   date: '2020-12-22T04:44:57'
+  emoji: "\U0001F43B"
   mail: ahroach@gmail.com
 '628':
   handle: foreverip

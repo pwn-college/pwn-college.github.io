@@ -1,10 +1,12 @@
 '307':
   handle: holocircuit
   date: '2020-10-12T20:36:29'
+  emoji: "\U0001F451"
   web: https://holocircuit.github.io/
 '326':
   handle: propio
   date: '2020-10-19T00:16:04'
+  emoji: "\U0001F611"
   mail: msaboor35@gmail.com
 '86':
   handle: "\u2131lynn"
@@ -12,6 +14,7 @@
 '2':
   handle: Pascal0x90
   date: '2020-10-21T06:53:11'
+  emoji: "\U0001F35E"
   site: https://twitter.com/Pascal_0x90
   mail: pascal-0x90@protonmail.com
 '11':
@@ -20,6 +23,7 @@
 '133':
   handle: Narnix
   date: '2020-11-04T12:06:52'
+  emoji: "\U0001F643"
   mail: xxie29@asu.edu
 '127':
   handle: "woad\xEBy"
@@ -27,6 +31,7 @@
 '349':
   handle: qrla
   date: '2020-11-16T08:44:12'
+  emoji: "\U0001F97A"
   site: https://carla.is.mad.af/
   mail: loresfca.flores1@gmail.com
 '109':
@@ -36,6 +41,7 @@
 '304':
   handle: codacker
   date: '2020-12-13T15:22:37'
+  emoji: "\U0001F60F"
   site: https://mishrasunny174.tech/
   mail: mishrasunny174@gmail.com
 '45':
