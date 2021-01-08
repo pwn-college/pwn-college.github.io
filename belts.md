@@ -15,6 +15,7 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 
 {% for belt in site.data.blue %}
 - {{ belt[1].handle }}
+test
 {% endfor %}
 
 ## Yellow Belts
