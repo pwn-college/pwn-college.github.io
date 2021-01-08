@@ -1,3 +1,6 @@
+---
+---
+
 # The Belted
 
 The hacker ethos goes beyond the acquisition of a satisfactory grade in a college course.
@@ -10,20 +13,9 @@ Below is a list of true hackers: those who stared at the yellow box, and rather 
 
 For demonstrating hacker mastery in the completion of all active challenges on pwn.college, the following individuals have been awarded the rank of BLUE BELT.
 
-- frqmod 🪀 [mail](mailto:frqmod@gmail.com) *(ascended 12/4/2020)*
-- Neural 🤡 [mail](mailto:neural@protonmail.com) *(ascended 12/4/2020)*
-- gallium 🤯 [mail](mailto:jlin139@asu.edu) *(ascended 12/6/2020)*
-- r00tus3r √ [mail](mailto:aajayan@asu.edu) *(ascended 12/7/2020)*
-- /etc/shadow ⚡️ [mail](mailto:danialyunus@gmail.com) [web](https://danialyunus.com) *(ascended 12/7/2020)*
-- Torashulk 🐶 [mail](mailto:torashulk@gmail.com) *(ascended 12/7/2020)*
-- h4x (Fanda Uchytil) ☯ [mail](mailto:cse466.pwn.college.8afzwm3tro@h4x.cz) [web](https://h4x.cz) *(ascended 12/7/2020)*
-- X3eRo0 (Pulkit Singaria) 😉 [mail](mailto:psinghania929@gmail.com) [web](https://x3ero0.tech) *(ascended 12/8/2020)*
-- JanitorJeff (Luke Shaffer) 🌯 [mail](mailto:Luke.Shaffer@asu.edu) *(ascended 12/8/2020)*
-- msm65536 *(ascended 12/10/2020)*
-- \*nullptr (Bailey Capuano) 🗅 [mail](mailto:dereferenced.nullptr@gmail.com) *(ascended 12/10/2020)*
-- shinji (Maxime Turquetil) ⛰️ [mail](mailto:maturquetil@gmail.com) [web](http://blog.mturquetil.fr/) *(ascended 12/10/2020)*
-- honeybear (Austin Roach) 🐻 [mail](mailto:ahroach@gmail.com) *(ascended 12/21/2020)*
-- foreverip *(ascended 1/3/2021)*
+{% for belt in site.data.blue %}
+- {{ belt[1].handle }}
+{% endfor %}
 
 ## Yellow Belts
 
