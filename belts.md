@@ -18,10 +18,10 @@ For demonstrating hacker mastery in the completion of all active challenges on p
 {% assign belt = element[1] %}
   <li>
     <raw>{{ belt.handle | xml_escape }}</raw>
-    {% if belts.name %}({{ belts.name }}){% endif %}
-    {% if belts.emoji %}{{ belt.emoji }}{% endif %}
-    {% if belts.site %}<a href="{{ belts.site }}">site</a>{% endif %}
-    {% if belts.mail %}<a href="mailto:{{ belts.mail }}">mail</a>{% endif %}
+    {% if belt.name %}({{ belt.name }}){% endif %}
+    {% if belt.emoji %}{{ belt.emoji }}{% endif %}
+    {% if belt.site %}<a href="{{ belt.site }}">site</a>{% endif %}
+    {% if belt.mail %}<a href="mailto:{{ belt.mail }}">mail</a>{% endif %}
     <em>(ascended {{ belt.date | date: "%Y-%m-%d" }})</em>
   </li>
 {% endfor %}
@@ -36,10 +36,10 @@ Like saplings that shall one day grow into mighty trees, the following individua
 {% assign belt = element[1] %}
   <li>
     <raw>{{ belt.handle | xml_escape }}</raw>
-    {% if belts.name %}({{ belts.name }}){% endif %}
-    {% if belts.emoji %}{{ belt.emoji }}{% endif %}
-    {% if belts.site %}<a href="{{ belts.site }}">site</a>{% endif %}
-    {% if belts.mail %}<a href="mailto:{{ belts.mail }}">mail</a>{% endif %}
+    {% if belt.name %}({{ belt.name }}){% endif %}
+    {% if belt.emoji %}{{ belt.emoji }}{% endif %}
+    {% if belt.site %}<a href="{{ belt.site }}">site</a>{% endif %}
+    {% if belt.mail %}<a href="mailto:{{ belt.mail }}">mail</a>{% endif %}
     <em>(ascended {{ belt.date | date: "%Y-%m-%d" }})</em>
   </li>
 {% endfor %}
