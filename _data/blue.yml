@@ -27,7 +27,7 @@
   handle: /etc/shadow
   date: '2020-12-08T02:03:55'
   emoji: "\u26A1\uFE0F"
-  web: https://danialyunus.com/
+  site: https://danialyunus.com/
   mail: danialyunus@gmail.com
 '370':
   handle: h4x
@@ -75,9 +75,9 @@
 '57':
   handle: nopnopgoose
   date: '2020-12-21T13:01:50'
-  mail: nopnopgoose@gmail.com
-  site: https://twitter.com/nopnopgoose
   emoji: "\U0001F9A2"
+  site: https://twitter.com/nopnopgoose
+  mail: nopnopgoose@gmail.com
 '927':
   handle: honeybear
   date: '2020-12-22T04:44:57'

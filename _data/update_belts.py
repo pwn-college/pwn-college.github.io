@@ -48,8 +48,14 @@ def main():
     yellow_belts = {k: v for k, v in yellow_belts.items() if k not in blue_belts}
 
     def clean(belts):
-        for belt in belts.values():
-            belt.pop("fetched", None)
+        for belt_id, belt in belts.items():
+            original_belt = belt.copy()
+            belt = {}
+            order = ["handle", "date", "name", "emoji", "site", "mail"]
+            for key in order:
+                if original_belt.get(key):
+                    belt[key] = original_belt[key]
+            belts[belt_id] = belt
 
     clean(yellow_belts)
     clean(blue_belts)
