@@ -76,8 +76,8 @@
   handle: nopnopgoose
   date: '2020-12-21T13:01:50'
   mail: nopnopgoose@gmail.com
-  site: https://twitter.com/nopnopgoose 
-  emoji: "\U0001f9a2"
+  site: https://twitter.com/nopnopgoose
+  emoji: "\U0001F9A2"
 '927':
   handle: honeybear
   date: '2020-12-22T04:44:57'
@@ -90,3 +90,6 @@
 '1146':
   handle: lms
   date: '2021-01-07T15:14:19'
+'1072':
+  handle: hav3n
+  date: '2021-01-13T20:02:50'
