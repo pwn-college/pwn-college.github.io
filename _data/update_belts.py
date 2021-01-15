@@ -27,12 +27,32 @@ def belts(color, fetch=False):
 
 def main():
     def join(color):
-        return {**belts(color, fetch=True), **belts(color)}
+        fetched_belts = belts(color, fetch=True)
+        pre_existing_belts = belts(color, fetch=False)
+        for belt in fetched_belts.values():
+            belt["fetched"] = True
+        return {**fetched_belts, **pre_existing_belts}
 
     yellow_belts = join("yellow")
     blue_belts = join("blue")
 
+    for belt_id in blue_belts:
+        blue_belt = blue_belts[belt_id]
+        yellow_belt = yellow_belts[belt_id]
+        upgraded = blue_belt.get("fetched") and not yellow_belt.get("fetched")
+        if upgraded:
+            upgrade_date = blue_belt["date"]
+            blue_belts[belt_id] = yellow_belt.copy()
+            blue_belts[belt_id]["date"] = upgrade_date
+
     yellow_belts = {k: v for k, v in yellow_belts.items() if k not in blue_belts}
+
+    def clean(belts):
+        for belt in belts.values():
+            belt.pop("fetched", None)
+
+    clean(yellow_belts)
+    clean(blue_belts)
 
     def sort(belts):
         return dict(
