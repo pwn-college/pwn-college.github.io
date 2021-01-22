@@ -31,3 +31,4 @@ If you are ready to tackle the challenges, go to [https://cse466.pwn.college](ht
 ## Further Reading
 
 - A very good primer for digging around memory [here](https://www.nickgregory.me/security/2019/04/06/pivoting-around-memory/).
+- An awesome series on [OS haxx0ring](https://youtube.com/playlist?list=PLMOpZvQB55bcRA5-KjvW7dVyGUarcqZuL) from the perspective of an OS developer.
