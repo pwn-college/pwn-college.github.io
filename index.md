@@ -151,6 +151,14 @@ The modules are closed-source, because they include source code and solution scr
 If you are an educator, or otherwise someone we trust, and are interested in collaborating on the modules themselves, please email us at [pwn-college@asu.edu](mailto:pwn-college@asu.edu).
 Likewise, drop us a line if you are interested in collaborating on the slides!
 
+# Special Thanks
+
+We'd like to extend a special thanks to some people who've helped make pwn.college the success that it is!
+
+- mahaloz (Zion Basque) for contributing challenges to pwn.college.
+- Erik Trickel for helping in the development of pedagogical concepts underlying pwn.college.
+- Adam Doupe for helping in the brainstorming of the initial concept.
+
 # ARCHIVED MODULES FROM THE PWN-COLLEGE BETA
 
 The pwn-college beta was announced at HITCON 2019 and ran until August 2020.
