@@ -13,6 +13,7 @@ pwn.college is hosted across a number of internet services:
 - **CHALLENGES:** We host [practice problems on our infrastructure](https://cse466.pwn.college).
 - **DISCORD:** We collaborate on [discord](https://discord.com/invite/68x4ADt)!
 - **MAILING LIST:** We answer questions about pwn.college on [the public google group](https://groups.google.com/g/pwn-college-users).
+- **OPEN SOURCE:** We host our [open source on GitHub](https://github.com/pwncollege).
 
 **Stream Schedule from August through November (NOTE: PLEASE make sure to watch all the module videos before the Wednesday stream!):**
 - **COMING BACK AUGUST 2021:** Module video stream (pre-recorded): weekly [on Twitch](https://www.twitch.tv/pwncollege/).
