@@ -35,3 +35,4 @@ Additionally, the following reading material is useful:
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Shellcode)
 - [x86_64 assembly listing](http://ref.x86asm.net/coder64.html)
+- [Syscall Table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
